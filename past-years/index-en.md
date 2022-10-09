@@ -9,6 +9,8 @@ lang: en
 
 Here are the links to our website from past years, if you are interested in seeing how much we have grown :D
 
+- ### <a href="https://buildingblocs.github.io/2022" target="_blank" rel="noopener noreferrer">2022</a>
+
 - ### <a href="https://buildingblocs.github.io/2021" target="_blank" rel="noopener noreferrer">2021</a>
 
 - ### <a href="https://buildingblocs.github.io/2020" target="_blank" rel="noopener noreferrer">2020</a>

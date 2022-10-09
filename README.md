@@ -1,6 +1,6 @@
-# BuildingBloCS 2022 Website
+# BuildingBloCS 2023 Website
 
-Welcome! This is the Github page for the 2022 version of the [BuildingBloCS Website](https://buildingblocs.sg/2022/).
+Welcome! This is the Github page for the 2023 version of the [BuildingBloCS Website](https://buildingblocs.sg/2023/).
 
 Table of Contents
 -------------
@@ -29,7 +29,7 @@ Table of Contents
 
 ### 1.1 Installing Project
 
-Go to this year's version of the BuildingBloCS page on Github [here](https://github.com/buildingblocs/2022). At the top of the page, click on the big green button titled "Code". From there, select your preferred method of installation.
+Go to this year's version of the BuildingBloCS page on GitHub [here](https://github.com/buildingblocs/2023). At the top of the page, click on the big green button titled "Code". From there, select your preferred method of installation.
 
 ### 1.2 Installing Dependencies
 
@@ -44,21 +44,17 @@ The website makes use of the following:
 7. [Bundler](https://bundler.io/v2.3/)
 
 > Yarn is the selected package manager for our project. In the base folder of the project, run `yarn install` to install all subdependencies. If you have `node.js >=16.10` installed, you just need to enable yarn with `corepack enable`
-```
-yarn install
+```s
+$ yarn install
 ```
 
 We use Ruby and RubyGems for this page. Using a tool like `rbenv` is recommended to install ruby as certain linux distributions may have an old version built and cached in their archives 
 
 
-> After installing RubyGems and Bundler, install the necessary gems as per the instructions [here](https://bundler.io/v2.3/bundle_install.html) by doing ```bundle install```
-
+> After installing RubyGems and Bundler, install the necessary gems as per the instructions [here](https://bundler.io/v2.3/bundle_install.html) by doing:
+```s
+$ bundle install
 ```
-bundle install
-```
-
-
-
 
 
 ## 2. Configuration
@@ -163,9 +159,6 @@ The following files should not be touched unless you know what you are doing.
 ├── package.json
 └── yarn.lock
 ```
-
-
-
 
 
 ## 3. Usage

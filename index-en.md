@@ -17,7 +17,16 @@ lang: en
 </section>
 <br><br><br>
 
-## Theme: (Insert Theme)
+
+This year, our conference is divided into two **different** events, focused on **different** themes altogether. These are the March and June Conferences!
+
+## The March Conference
+
+This year's March Conference will consist of a series of workshops, branded under the theme of **blockchain and cybersecurity education**.
+
+## The June Conference
+
+Our flagship event of the year, the June Conference will be held in around the first week of June, with a central theme: **AI in Healthcare**. We'll focus on the integration of AI into numerous fields, and we're also proud to partner with <a href="https://aisingapore.org/">AI Singapore</a> again in their new <a href="https://aisingapore.org/student-outreach-programme/">AI Student Outreach Programme</a> which encourages students to form Student User Groups (SUG) to promote AI literacy and experiment with our open-source AI tools ‘AI BRICKS’ to develop solutions for their schools and real-world needs.
 
 <!-- With the increasing importance of Computing education and AI literacy globally as well as disruptive emerging blockchain technologies, this year's focus areas will be on Computational Thinking, Artificial Intelligence and Blockchain Education! -->
 

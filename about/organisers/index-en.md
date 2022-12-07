@@ -102,7 +102,7 @@ lang: en
     }
 </style>
 
-# Our Teak
+# Our Team
 
 <h2 style="text-align:left;">Our OICs</h2>
 

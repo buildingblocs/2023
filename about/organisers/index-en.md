@@ -35,20 +35,16 @@ lang: en
         border-radius: 5px;
         box-shadow:  0 12px 13px rgba(0,0,0,0.16), 0 12px 13px rgba(0,0,0,0.16);
         text-align: center;
-        padding: 20px 50px;
+        padding: 20px;
         margin: 5px;
         padding-top: 5px;
         transition: all 0.5s;
     }
     .card .card-title {
         color: #434343;
-        margin-bottom: -8px;
-        font-size: 25px;
+        margin-bottom: 5px;
+        font-size: 20px;
         font-weight: 600;
-    }
-    .card .card-responsename {
-        margin-bottom: 20px;
-        color: #797979;
     }
     .card .card-desc {
         font-weight: 500;
@@ -62,7 +58,8 @@ lang: en
         height: 160px;
         width: 160px;
         margin: 10px auto;
-        margin-bottom: 20px;
+        padding-bottom: 5px;
+        margin-bottom: 5px;
     }
     .card .card-img-wrapper img {
         height: 100%;
@@ -70,7 +67,7 @@ lang: en
         border-radius: 50%;
     }
     .card .card-footer {
-        margin-top: 40px;
+        margin-top: 20px;
     }
     .card .card-footer .footer-box {
         position: relative;
@@ -85,12 +82,6 @@ lang: en
     .card .card-footer .footer-box .box-wrapper {
         position: relative;
         padding: 10;
-    }
-    .card .card-footer .footer-box .box-wrapper .count {
-        font-family: 'consolas'
-        color: #434343;
-        font-size: 20px;
-        font-weight: 600;
     }
     .card .card-footer .footer-box .box-wrapper .box-text {
         font-size: 12px;
@@ -118,7 +109,6 @@ lang: en
                 <div class="footer-box">
                     {% for comm in organiser.comms %}
                     <div class="box-wrapper">
-                        <!-- <div class="count">${nFormatter(user.followers)}</div> -->
                         <div class="box-text">{{ comm }}</div>
                     </div>
                     {% endfor %}

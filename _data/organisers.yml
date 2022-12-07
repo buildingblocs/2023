@@ -1,58 +1,59 @@
 - name: Jed Lim
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - WS
   level: JC2
   img: ppl/jed.jpg
 - name: Kabir Jain
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
+    - WS
   level: JC1
 - name: Mahir Shah
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - HR
     - WS
   level: JC1
 - name: Cervon Wong
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - QA
     - WS
   level: JC2
 - name: Khoo Kai Wen
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - WS
   level: JC1
 - name: Yap Yuan Xi
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - HR
     - QA
   level: JC2
 - name: Liu Wenkai
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - WS
     - Games
   level: JC1
 - name: Zayan Karimi
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - HR
     - WS
   level: JC2
 - name: Mayukh Das
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - HR
@@ -60,14 +61,14 @@
     - Games
   level: JC2
 - name: Kannan Vishal
-  school: NUS High School
+  school: NUSH
   comms:
     - Dev
     - QA
   level: JC2
   img: ppl/vishal.jpg
 - name: Renoir Tan
-  school: Raffles Institution
+  school: RI
   comms:
     - Dev
     - HR
@@ -75,31 +76,31 @@
     - Games
   level: JC2
 - name: Seth Olav Yong
-  school: Singapore Polytechnic
+  school: SP
   comms:
     - Dev
     - HR
     - WS
   level: Poly 1
 - name: Elston
-  school: Singapore Polytechnic
+  school: SP
   comms:
     - HR
     - WS
   level: Poly 2
 - name: Ashwin Lokesh
-  school: Yishun Innova Junior College
+  school: YIJC
   comms:
     - Dev
     - HR
   level: JC2
 - name: Ishneet Singh
-  school: Temasek Junior College
+  school: TJC
   comms:
     - Dev
   level: JC2
 - name: Dhanvine Rameshkumar
-  school: Temasek Junior College
+  school: TJC
   comms:
     - Dev
     - HR
@@ -107,7 +108,7 @@
     - Games
   level: Sec 4
 - name: Isaac Koh
-  school: Dunman High School
+  school: DHS
   comms:
     - HR
     - Games

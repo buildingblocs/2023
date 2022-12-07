@@ -12,7 +12,7 @@
     - Dev
     - WS
   level: JC1
-  github: ka
+  github: ka-bear
 - name: Mahir Shah
   school: NUSH
   comms:
@@ -20,6 +20,7 @@
     - HR
     - WS
   level: JC1
+  github: RottenLemons
 - name: Cervon Wong
   school: NUSH
   comms:
@@ -27,6 +28,7 @@
     - QA
     - WS
   level: JC2
+  img: ppl/cervon.jpg
   github: cervonwong
 - name: Khoo Kai Wen
   school: NUSH
@@ -65,6 +67,7 @@
     - WS
     - Games
   level: JC2
+  github: jeffilluminati
 - name: Kannan Vishal
   school: NUSH
   comms:
@@ -72,6 +75,7 @@
     - QA
   level: JC2
   img: ppl/vishal.png
+  github: delargement
 - name: Renoir Tan
   school: RI
   comms:
@@ -87,23 +91,29 @@
     - HR
     - WS
   level: Poly 1
-- name: Elston
+  github: idkSeth
+- name: Elston Tan
   school: SP
   comms:
     - HR
     - WS
   level: Poly 2
+  img: ppl/elston.jpg
 - name: Ashwin Lokesh
   school: YIJC
   comms:
     - Dev
     - HR
   level: JC2
+  img: ppl/ashwin.jpg
+  github: electron13
 - name: Ishneet Singh
   school: TJC
   comms:
     - Dev
   level: JC2
+  img: ppl/ishneet.jpg
+  github: Ishneet0710
 - name: Dhanvine Rameshkumar
   school: TJC
   comms:

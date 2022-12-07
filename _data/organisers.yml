@@ -5,12 +5,14 @@
     - WS
   level: JC2
   img: ppl/jed.png
+  github: jedlimlx
 - name: Kabir Jain
   school: NUSH
   comms:
     - Dev
     - WS
   level: JC1
+  github: ka
 - name: Mahir Shah
   school: NUSH
   comms:

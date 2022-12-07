@@ -5,9 +5,6 @@ permalink: about/organisers/
 lang: en
 ---
 
-# Our Organisers
-
-
 <style>
     h1, div, p {
         margin: 0px;
@@ -58,7 +55,7 @@ lang: en
     }
     .card .card-desc {
         font-weight: 500;
-        width: 220px;
+        width: 240px;
         margin: auto;
         display: block;
         color: #3c3c3c;
@@ -106,7 +103,35 @@ lang: en
 </style>
 
 
-<section class="organisers">
+<h2 style="text-align:left;">Our OICs</h2>
+
+
+<section>
+    {% for organiser in site.data.oics %}
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" width="400px" />
+                </div>
+                <h1 class="card-title">{{ organiser.name }}</h1>
+                <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.github }}</a></div>
+                <p class="card-desc">{{ organiser.level }} Student at {{ organiser.school }}</p>
+            </div>
+        </div>
+    </div>
+
+    {% endfor %}
+</section>
+
+
+<h2 style="text-align:left;">Our Organisers</h2>
+
+Without our organizers, we wouldn't be able to organize much of BuildingBloCS, hence this serves as a _thank-you note_ to all of them for their willingness to help and make BuildingBloCS possible!
+
+<section>
     {% for organiser in site.data.organisers %}
 
     <div class="card">

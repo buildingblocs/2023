@@ -36,6 +36,7 @@
     - Dev
     - WS
   level: JC1
+  github: deadly-nightshade
 - name: Yap Yuan Xi
   school: NUSH
   comms:
@@ -51,6 +52,7 @@
     - WS
     - Games
   level: JC1
+  github: squi-ddy
 - name: Zayan Karimi
   school: NUSH
   comms:
@@ -84,6 +86,7 @@
     - QA
     - Games
   level: JC2
+  github: RenoirTan
 - name: Seth Olav Yong
   school: SP
   comms:

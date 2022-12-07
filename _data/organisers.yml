@@ -1,112 +1,114 @@
 - name: Jed Lim
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Workshops
+    - Dev
+    - WS
   level: JC2
+  img: ppl/jed.jpg
 - name: Kabir Jain
   school: NUS High School
   comms:
-    - Development and Hackathon
+    - Dev
   level: JC1
 - name: Mahir Shah
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Workshops
+    - Dev
+    - HR
+    - WS
   level: JC1
 - name: Cervon Wong
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Publicity and Quality Assurance
-    - Workshops
+    - Dev
+    - QA
+    - WS
   level: JC2
 - name: Khoo Kai Wen
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Workshops
+    - Dev
+    - WS
   level: JC1
 - name: Yap Yuan Xi
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Publicity and Quality Assurance
+    - Dev
+    - HR
+    - QA
   level: JC2
 - name: Liu Wenkai
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Workshops
-    - Member Engagement
+    - Dev
+    - WS
+    - Games
   level: JC1
 - name: Zayan Karimi
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Workshops
+    - Dev
+    - HR
+    - WS
   level: JC2
 - name: Mayukh Das
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Workshops
-    - Member Engagement
+    - Dev
+    - HR
+    - WS
+    - Games
   level: JC2
 - name: Kannan Vishal
   school: NUS High School
   comms:
-    - Development and Hackathon
-    - Publicity and Quality Assurance
+    - Dev
+    - QA
   level: JC2
+  img: ppl/vishal.jpg
 - name: Renoir Tan
   school: Raffles Institution
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Publicity and Quality Assurance
-    - Member Engagement
+    - Dev
+    - HR
+    - QA
+    - Games
   level: JC2
 - name: Seth Olav Yong
   school: Singapore Polytechnic
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Workshops
+    - Dev
+    - HR
+    - WS
   level: Poly 1
 - name: Elston
   school: Singapore Polytechnic
   comms:
-    - Admin and HR
-    - Workshops
+    - HR
+    - WS
   level: Poly 2
 - name: Ashwin Lokesh
   school: Yishun Innova Junior College
   comms:
-    - Development and Hackathon
-    - Admin and HR
+    - Dev
+    - HR
   level: JC2
 - name: Ishneet Singh
   school: Temasek Junior College
   comms:
-    - Development and Hackathon
+    - Dev
   level: JC2
 - name: Dhanvine Rameshkumar
   school: Temasek Junior College
   comms:
-    - Development and Hackathon
-    - Admin and HR
-    - Workshops
-    - Member Engagement
+    - Dev
+    - HR
+    - WS
+    - Games
   level: Sec 4
 - name: Isaac Koh
   school: Dunman High School
   comms:
-    - Admin and HR
-    - Member Engagement
+    - HR
+    - Games
   level: JC2

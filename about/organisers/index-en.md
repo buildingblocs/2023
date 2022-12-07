@@ -40,13 +40,6 @@ lang: en
         padding-top: 5px;
         transition: all 0.5s;
     }
-    .card .fa-github {
-        position: absolute;
-        color: #646464;
-        font-size: 20px;
-        top: 10px;
-        right: 10px;
-    }
     .card .card-title {
         color: #434343;
         margin-bottom: -8px;
@@ -91,6 +84,7 @@ lang: en
     }
     .card .card-footer .footer-box .box-wrapper {
         position: relative;
+        padding: 10;
     }
     .card .card-footer .footer-box .box-wrapper .count {
         font-family: 'consolas'

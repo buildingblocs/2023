@@ -12,7 +12,6 @@ lang: en
     h1, div, p {
         margin: 0px;
         padding: 0px;
-        font-family: 'system-ui'
     }
     a{
         text-decoration: none;

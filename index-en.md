@@ -60,7 +60,7 @@ This year, BuildingBloCS' main June Conference will be held over 3 days in a hyb
 </table>
 {% endfor %} -->
 
-## Organisers
+## Organising Schools
 
 <section class="organisers">
     {% for school in site.data.schools %}

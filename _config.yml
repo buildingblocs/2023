@@ -14,7 +14,7 @@ languages: ["en", "jp", "zh"]
 default_lang: "en"
 exclude_from_localization: [_data, _includes, _layouts, _plugins, _site, "javascript", "images", "css", "sass"]
 parallel_localization: true
-lang_from_path: true 
+lang_from_path: true
 
 exclude:
   - README.md

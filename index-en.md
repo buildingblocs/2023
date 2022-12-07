@@ -63,9 +63,9 @@ This year, BuildingBloCS' main June Conference will be held over 3 days in a hyb
 ## Organisers
 
 <section class="organisers">
-    {% for organiser in site.data.organisers %}
-    <a href="{{ organiser.url }}">
-        <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" title="{{ organiser.title }}" />
+    {% for school in site.data.schools %}
+    <a href="{{ school.url }}">
+        <img src="{{ site.baseurl }}/assets/img/{{ school.img }}" title="{{ school.title }}" />
     </a>
     {% endfor %}
 </section>

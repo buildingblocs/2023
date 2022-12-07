@@ -58,7 +58,7 @@ lang: en
     }
     .card .card-desc {
         font-weight: 500;
-        width: 250px;
+        width: 220px;
         margin: auto;
         display: block;
         color: #3c3c3c;

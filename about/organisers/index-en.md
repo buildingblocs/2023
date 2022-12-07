@@ -20,7 +20,7 @@ lang: en
     .cover{
         height: 120px;
         width: 100%;
-        background: #FF5C5C;
+        background: #FF9900;
         position: absolute;
         left: 0px;
         top: 0px;
@@ -41,9 +41,13 @@ lang: en
     }
     .card .card-title {
         color: #434343;
-        margin-bottom: 5px;
-        font-size: 20px;
+        margin-bottom: -8px;
+        font-size: 25px;
         font-weight: 600;
+    }
+    .card .card-responsename {
+        margin-bottom: 20px;
+        color: #797979;
     }
     .card .card-desc {
         font-weight: 500;
@@ -57,8 +61,7 @@ lang: en
         height: 160px;
         width: 160px;
         margin: 10px auto;
-        padding-bottom: 5px;
-        margin-bottom: 5px;
+        margin-bottom: 20px;
     }
     .card .card-img-wrapper img {
         height: 100%;
@@ -66,11 +69,11 @@ lang: en
         border-radius: 50%;
     }
     .card .card-footer {
-        margin-top: 20px;
+        margin-top: 40px;
     }
     .card .card-footer .footer-box {
         position: relative;
-        border-top: 2px solid #ff9b9b;
+        border-top: 2px solid #FF9900;
         box-shadow: 0 3px 6px -1px rgb(0 0 0 / 26%), 0 2px 4px -1px rgb(0 0 0 / 6%);
         border-radius: 5px;
         margin: 0 auto;
@@ -80,7 +83,12 @@ lang: en
     }
     .card .card-footer .footer-box .box-wrapper {
         position: relative;
-        padding: 10;
+    }
+    .card .card-footer .footer-box .box-wrapper .count {
+        font-family: 'consolas'
+        color: #434343;
+        font-size: 20px;
+        font-weight: 600;
     }
     .card .card-footer .footer-box .box-wrapper .box-text {
         font-size: 12px;
@@ -102,15 +110,16 @@ lang: en
                     <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}"/>
                 </div>
                 <h1 class="card-title">{{ organiser.name }}</h1>
+                <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.github }}</a></div>
                 <p class="card-desc">{{ organiser.level }} Student at {{ organiser.school }}</p>
-            </div>
-            <div class="card-footer">
-                <div class="footer-box">
-                    {% for comm in organiser.comms %}
-                    <div class="box-wrapper">
-                        <div class="box-text">{{ comm }}</div>
+                <div class="card-footer">
+                    <div class="footer-box">
+                        {% for comm in organiser.comms %}
+                        <div class="box-wrapper">
+                            <div class="box-text">{{ comm }}</div>
+                        </div>
+                        {% endfor %}
                     </div>
-                    {% endfor %}
                 </div>
             </div>
         </div>

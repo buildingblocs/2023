@@ -39,6 +39,13 @@ lang: en
         padding-top: 5px;
         transition: all 0.5s;
     }
+    .card .fa-github {
+        position: absolute;
+        color: #646464;
+        font-size: 20px;
+        top: 10px;
+        right: 10px;
+    }
     .card .card-title {
         color: #434343;
         margin-bottom: -8px;
@@ -105,6 +112,7 @@ lang: en
     <div class="card">
         <div class="cover"></div>
         <div class="card-wrapper">
+            <a href="https://github.com/" target="_blank" rel="noopener"><img id="github-logo" src="https://i.ibb.co/frv5pB3/github-logo.png" alt="github-logo" border="0"></a>
             <div class="card-header">
                 <div class="card-img-wrapper">
                     <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}"/>

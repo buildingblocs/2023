@@ -112,10 +112,9 @@ lang: en
     <div class="card">
         <div class="cover"></div>
         <div class="card-wrapper">
-            <a href="https://github.com/" target="_blank" rel="noopener"><img id="github-logo" src="https://i.ibb.co/frv5pB3/github-logo.png" alt="github-logo" border="0"></a>
             <div class="card-header">
                 <div class="card-img-wrapper">
-                    <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}"/>
+                    <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" width="400px" />
                 </div>
                 <h1 class="card-title">{{ organiser.name }}</h1>
                 <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.github }}</a></div>

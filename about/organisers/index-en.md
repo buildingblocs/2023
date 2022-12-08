@@ -156,7 +156,11 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
                 </div>
                 <h1 class="card-title">{{ organiser.name }}</h1>
                 <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.nickname | default: organiser.github }}</a></div>
-                <p class="card-desc">{{ organiser.level }} Student at {{ organiser.school }}</p>
+                {% if organiser.bio %}
+                    <p class="card-desc">{{ organiser.bio }}</p>
+                {% else %}
+                    <p class="card-desc">{{ organiser.level }} Student at {{ organiser.school }}</p>
+                {% endif %}
                 <div class="card-footer">
                     <div class="footer-box">
                         {% for comm in organiser.comms %}

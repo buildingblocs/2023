@@ -1,3 +1,28 @@
+- name: Seth Olav Yong
+  school: SP
+  comms:
+    - Dev
+    - HR
+    - QA
+    - WS
+  level: Poly 1
+  github: idkSeth
+- name: Elston Tan
+  school: SP
+  comms:
+    - HR
+    - WS
+  level: Poly 2
+  img: ppl/elston.jpg
+  github: Elstuhn
+- name: Ashwin Lokesh
+  school: YIJC
+  comms:
+    - Dev
+    - HR
+  level: JC2
+  img: ppl/ashwin.jpg
+  github: electron13
 - name: Jed Lim
   school: NUSH
   comms:
@@ -92,30 +117,6 @@
     - Games
   level: JC2
   github: RenoirTan
-- name: Seth Olav Yong
-  school: SP
-  comms:
-    - Dev
-    - HR
-    - WS
-  level: Poly 1
-  github: idkSeth
-- name: Elston Tan
-  school: SP
-  comms:
-    - HR
-    - WS
-  level: Poly 2
-  img: ppl/elston.jpg
-  github: Elstuhn
-- name: Ashwin Lokesh
-  school: YIJC
-  comms:
-    - Dev
-    - HR
-  level: JC2
-  img: ppl/ashwin.jpg
-  github: electron13
 - name: Ishneet Singh
   school: TJC
   comms:

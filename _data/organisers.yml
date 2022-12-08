@@ -147,9 +147,13 @@
 - name: Ian Goh
   school: DHS
   github: TheRoundRoads
+  comms:
+    - WS
   img: ppl/ian.jpg
   bio: Hi I'm Ian Goh! I'm currently a JC2 computing student studying in DHS. I also enjoy watching anime!
 - name: Heng Yi Wang
   school: DHS
   github: dhshengyiwang
   img: ppl/yiwang.jpg
+  comms:
+    - WS

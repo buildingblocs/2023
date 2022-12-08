@@ -106,6 +106,9 @@ lang: en
 
 <h2 style="text-align:left;">Our OICs</h2>
 
+BuildingBloCS 2023 is led by a set of ~~charismatic~~ passionate overall ICs who overlook various departments within the organisation. Having worked together on organising BuildingBloCS 2022 last year, the organisers
+aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever before.
+
 
 <section>
     {% for organiser in site.data.oics %}
@@ -120,6 +123,15 @@ lang: en
                 <h1 class="card-title">{{ organiser.name }}</h1>
                 <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.github }}</a></div>
                 <p class="card-desc">{{ organiser.level }} Student at {{ organiser.school }}</p>
+                <div class="card-footer">
+                    <div class="footer-box">
+                        {% for comm in organiser.comms %}
+                        <div class="box-wrapper">
+                            <div class="box-text">{{ comm }}</div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
         </div>
     </div>

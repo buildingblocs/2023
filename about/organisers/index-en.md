@@ -59,6 +59,7 @@ lang: en
         margin: auto;
         display: block;
         color: #3c3c3c;
+        height: 120px;
     }
     .card .card-img-wrapper {
         position: relative;

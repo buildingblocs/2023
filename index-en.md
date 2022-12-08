@@ -30,7 +30,7 @@ bigger and higher-level events.
 
 Capping off the March Conference will be a contest, but one that might catch some off guard. Unlike the classic Hackathon 
 adopted in the June Conference, we will instead be taking inspiration from [Hacktoberfest](https://hacktoberfest.com/)
-and [Google Summer of Code](https://summerofcode.withgoogle.com/), amd organising our very own "Hackathon" for open-source!
+and [Google Summer of Code](https://summerofcode.withgoogle.com/) by organising our very own "Hackathon" for open-source!
 
 More details will be released shortly.
 

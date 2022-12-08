@@ -152,7 +152,7 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
         <div class="card-wrapper">
             <div class="card-header">
                 <div class="card-img-wrapper">
-                    <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" width="400px" />
+                    <img src="{{organiser.img ?? site.baseurl + "/assets/img/" + organiser.img : "https://avatars.githubusercontent.com/"+organiser.github}}" width="400px" />
                 </div>
                 <h1 class="card-title">{{ organiser.name }}</h1>
                 <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.github }}</a></div>

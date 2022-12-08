@@ -170,7 +170,7 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
                     <div class="footer-box">
                         {% for comm in organiser.comms %}
                         <div class="box-wrapper">
-                            <div class="box-text">{{ comm }}</div>
+                            <div class="count">{{ comm }}</div>
                         </div>
                         {% endfor %}
                     </div>

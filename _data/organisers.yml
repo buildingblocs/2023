@@ -120,10 +120,11 @@
   school: NUSH
   comms:
     - Dev
-    - QA
+    - HR
   level: Sec 4
   img: ppl/zerui.png
   github: Wang-Zerui
+  bio: Hi I'm Zerui from NUSH, I like CTFs and blahajs!
 - name: Renoir Tan
   school: RI
   comms:

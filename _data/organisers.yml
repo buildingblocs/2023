@@ -49,6 +49,7 @@
     - WS
   level: JC1
   github: RottenLemons
+  img: ppl/mahir.png
 - name: Cervon Wong
   school: NUSH
   comms:
@@ -84,6 +85,7 @@
     - Games
   level: JC1
   github: squi-ddy
+  img: ppl/wenkai.jpg
 - name: Zayan Karimi
   school: NUSH
   comms:
@@ -101,6 +103,7 @@
     - Games
   level: JC2
   github: jeffilluminati
+  img: ppl/mayukh.jpg
 - name: Kannan Vishal
   school: NUSH
   comms:
@@ -154,6 +157,7 @@
 - name: Heng Yi Wang
   school: DHS
   github: dhshengyiwang
+  level: JC2
   img: ppl/yiwang.jpg
   comms:
     - WS

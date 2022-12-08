@@ -155,7 +155,7 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
                     <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" width="400px" />
                 </div>
                 <h1 class="card-title">{{ organiser.name }}</h1>
-                <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.nickname ?? : organiser.github }}</a></div>
+                <div class="card-responsename"><a href="https://github.com/{{ organiser.github }}" target="_blank" rel="noopener">@{{ organiser.nickname | default: organiser.github }}</a></div>
                 <p class="card-desc">{{ organiser.level }} Student at {{ organiser.school }}</p>
                 <div class="card-footer">
                     <div class="footer-box">

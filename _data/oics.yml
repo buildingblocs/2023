@@ -4,15 +4,20 @@
   github: oneytlam
   img: ppl/yikting.jpg
   comms:
-    - HR
+    - QA
     - Games
 - name: Yau Le Qi
   school: TJC
   level: JC2
   github: teraSurfer40141
   img: ppl/leqi.jpg
+  comms:
+    - HR
+    - WS
 - name: Prannaya Gupta
   school: NUSH
   level: JC2
   github: ThePyProgrammer
   img: ppl/prannay.jpg
+  comms:
+    - Dev

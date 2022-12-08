@@ -116,6 +116,14 @@
   img: ppl/vishal.png
   github: delargement
   bio: Hey, I'm a sixth year from NUSH who likes post-punk, post-industrial and post-hardcore.
+- name: Wang Zerui
+  school: NUSH
+  comms:
+    - Dev
+    - QA
+  level: Sec 4
+  img: ppl/zerui.png
+  github: Wang-Zerui
 - name: Renoir Tan
   school: RI
   comms:
@@ -142,6 +150,16 @@
   level: Sec 4
   github: Dhanvine321
   img: ppl/dhanvine.jpeg
+- name: Cher Jin En
+  school: TJC
+  comms:
+    - HR
+  level: JC1
+- name: Bryant Shi
+  school: TJC
+  comms:
+    - WS
+  level: JC1
 - name: Isaac Kok
   school: DHS
   comms:

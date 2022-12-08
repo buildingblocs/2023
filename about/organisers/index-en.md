@@ -132,7 +132,7 @@ aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever 
                     <div class="footer-box">
                         {% for comm in organiser.comms %}
                         <div class="box-wrapper">
-                            <div class="box-text">{{ comm }}</div>
+                            <div class="count">{{ comm }}</div>
                         </div>
                         {% endfor %}
                     </div>

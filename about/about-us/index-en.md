@@ -23,15 +23,15 @@ We use Discord for major communications, and post regular updates through the se
 
 ## <a class="btn" href="https://go.buildingblocs.sg/discord">Join our community!</a>
 
-### Contact
+## Contact
 
 You can contact us by dropping an email to [hello@buildingblocs.sg](mailto:hello@buildingblocs)!
 
-### Partners
+## Partners
 BuildingBloCS collaborates with various community partners to promote Computing education in Singapore schools. Here are just some of them:
 
 
-#### AI Singapore
+### AI Singapore
 <section class="organisers">
 	<a href="https://www.aisingapore.org ">
 		<img src="{{ site.baseurl }}/assets/img/partner/aisingapore.png" title="AI Singapore" />
@@ -39,7 +39,7 @@ BuildingBloCS collaborates with various community partners to promote Computing 
 </section>
 We promote <a href="https://aisingapore.org/">AI Singapore's</a> newly-launched <a href="https://aisingapore.org/student-outreach-programme/">AI Student Outreach Programme</a>, which encourages students to form Student User Groups (SUG) to promote AI literacy in the general public.
 
-#### FOSSASIA
+### FOSSASIA
 <section class="organisers">
 	<a href="https://2019.fossasia.org/#buildingblocs ">
 		<img src="{{ site.baseurl }}/assets/img/partner/fossasia.png" title="FOSSASIA" />
@@ -47,7 +47,7 @@ We promote <a href="https://aisingapore.org/">AI Singapore's</a> newly-launched 
 </section>
 BuildingBloCS conducts introductory coding workshops for the community in collaboration with [FOSSASIA Academy](https://academy.fossasia.org/).
 
-#### NUS School of Computing
+### NUS School of Computing
 <section class="organisers">
 	<a href="https://www.comp.nus.edu.sg/">
 		<img src="{{ site.baseurl }}/assets/img/partner/nussoc.png" title="NUS School of Computing" />
@@ -55,7 +55,7 @@ BuildingBloCS conducts introductory coding workshops for the community in collab
 </section>
 We host our annual conference at the NUS School of Computing, and NUS provides us with resources to organise the conference in a smooth manner.
 
-#### SIMCC
+### SIMCC
 <section class="organisers">
 	<a href="https://simcc.org">
 		<img src="{{ site.baseurl }}/assets/img/partner/simcc.png" title="SIMCC" />

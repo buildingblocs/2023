@@ -181,3 +181,21 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
 
     {% endfor %}
 </section>
+
+<h2 style="text-align:left;">Teachers-in-Charge</h2>
+
+<section align="center">
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="{{ site.baseurl }}/assets/img/gipeh.png" width="400px" />
+                </div>
+                <h1 class="card-title">Mr Gi Soong Chee</h1>
+                <div class="card-responsename"><a href="https://github.com/dhsgisc" target="_blank" rel="noopener">@dhsgisc</a></div>
+                <p class="card-desc"><i>Make it harder.</i></p>
+            </div>
+        </div>
+    </div>
+</section>

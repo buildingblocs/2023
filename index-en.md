@@ -44,30 +44,6 @@ Our flagship event of the year, the June Conference will be held in around the f
 and Industry, and we're also proud to partner with <a href="https://aisingapore.org/">AI Singapore</a> again!
 
 
- <!-- in their new <a href="https://aisingapore.org/student-outreach-programme/">AI Student Outreach Programme</a> which encourages students to form Student User Groups (SUG) to promote AI literacy and experiment with our open-source AI tools ‘AI BRICKS’ to develop solutions for their schools and real-world needs. -->
-
-<!-- With the increasing importance of Computing education and AI literacy globally as well as disruptive emerging blockchain technologies, this year's focus areas will be on Computational Thinking, Artificial Intelligence and Blockchain Education! -->
-
-<!-- We are proud to partner with <a href="https://aisingapore.org/">AI Singapore</a> again in their new <a href="https://aisingapore.org/student-outreach-programme/">AI Student Outreach Programme</a> which encourages students to form Student User Groups (SUG) to promote AI literacy and experiment with our open-source AI tools ‘AI BRICKS’ to develop solutions for their schools and real-world needs.
-
-Learn about <a href="https://www.youtube.com/watch?v=KI3INCiyst8&t=905s">Introduction to Blockchain</a> and <a href="https://www.youtube.com/watch?v=kde1nxLN43w&t=382s">Introduction to NFTs</a> by <a href="https://www.tzapac.com/">TZAPAC</a>, official industry partner of <a href="https://noisg.comp.nus.edu.sg/noi/">National Olympiad in Informatics 2023</a>. -->
-
-<!-- ## Schedule
-
-This year, BuildingBloCS' main June Conference will be held over 3 days in a hybrid manner! Please refer to the schedule below for more details:
-
-{% for day in site.data.schedule %}
-{% if site.data.schedule.size > 1 %}<h2>Day {{ day.day }}</h2>{% endif %}
-<table width="80%">
-    {% for activity in day.activities %}
-    <tr>
-        <td>{{ activity.time }}</td>
-        <td width="80%">{{ activity.title }}</td>
-    </tr>
-    {% endfor %}
-</table>
-{% endfor %} -->
-
 ## Organising Schools
 
 <section class="organisers">

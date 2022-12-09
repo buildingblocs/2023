@@ -123,9 +123,9 @@ We use Discord for major communications, and post regular updates through the se
     }
 </style>
 
-## Our Team
+# Our Team
 
-<h3 style="text-align:left;">Our OICs</h3>
+<h2 style="text-align:left;">Our OICs</h2>
 
 BuildingBloCS 2023 is led by a set of ~~charismatic~~ passionate overall ICs who overlook various departments within the organisation. Having worked together on organising BuildingBloCS 2022 last year, the organisers
 aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever before.
@@ -165,7 +165,7 @@ aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever 
 </section>
 
 
-<h3 style="text-align:left;">Our Organisers</h3>
+<h2 style="text-align:left;">Our Organisers</h2>
 
 Without our organizers, we wouldn't be able to organize much of BuildingBloCS, hence this serves as a _thank-you note_ to all of them for their willingness to help and make BuildingBloCS possible!
 
@@ -202,7 +202,7 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
     {% endfor %}
 </section>
 
-<h3 style="text-align:left;">Teachers-in-Charge</h3>
+<h2 style="text-align:left;">Teachers-in-Charge</h2>
 
 <section align="center">
     <div class="card">
@@ -212,7 +212,7 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
                 <div class="card-img-wrapper">
                     <img src="{{ site.baseurl }}/assets/img/gipeh.png" width="400px" />
                 </div>
-                <h1 class="card-title">{{ organiser.name }}</h1>
+                <h1 class="card-title">Mr Gi Soong Chee</h1>
                 <div class="card-responsename"><a href="https://github.com/dhsgisc" target="_blank" rel="noopener">@dhsgisc</a></div>
                 <p class="card-desc"><i>Make it harder.</i></p>
             </div>

@@ -61,6 +61,7 @@
     - WS
   level: JC2
   img: ppl/cervon.jpg
+  bio: Hi, I'm Cervon, JC2 student from NUSH! AI, Robotics and Linguistics nerd 😎
   github: cervonwong
 - name: Khoo Kai Wen
   school: NUSH
@@ -159,6 +160,7 @@
   comms:
     - HR
   level: JC1
+  github: shindeux
 - name: Bryant Shi
   school: TJC
   comms:

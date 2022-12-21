@@ -4,12 +4,17 @@
 # - title: Google
 #   img: partner/google.png
 #   url: https://www.google.com/
-- title: Ministry of Education, Singapore 
-  img: partner/moe.png
-  url: https://www.moe.gov.sg/
 - title: AI Singapore
   img: partner/aisingapore.png
   url: https://www.aisingapore.org/
+  
+- title: Cyber Youth Singapore
+  img: partner/cys.png
+  url: https://www.cyberyouth.sg/
+  
+- title: Ministry of Education, Singapore 
+  img: partner/moe.png
+  url: https://www.moe.gov.sg/
 # - title: Python User Group Singapore
 #   img: partner/pyusergrp.png
 #   url: https://pugs.org.sg/
@@ -25,6 +30,6 @@
 - title: SIMCC
   img: partner/simcc.png
   url: https://simcc.org
-- title: Cyber Youth Singapore
-  img: partner/cys.png
-  url: https://www.cyberyouth.sg/
+- title: SINCON
+  img: partner/sincon.png
+  url: https://www.infosec-city.com/

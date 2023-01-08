@@ -231,3 +231,44 @@
     - HR
     - DEV
   bio: Hello, I'm Suraj and coding with black coffee and music is my thing.
+    - name: Le Duc Minh
+  school: HCI
+  github: ID-minh4354
+  #level: is missing
+  img: ppl/leducminh.jpg
+  comms:
+    - Admin
+    - HR
+      - name: Joey Tang
+  school: HCI
+  github: fishjojo1
+  #level: is missing
+  img: ppl/joeytang.jpg
+  comms:
+    - WS
+    - DEV
+      - name: Isaac Yeap Sheng Rong
+  school: HCI
+  github: iysr
+  #level: is missing
+  img: ppl/isaacyeap.jpg
+  comms:
+    - HR
+    - Admin
+      - name: Du Yuhan
+  school: MGS
+  github: TwelvePenguins
+  level: year 4
+  img: ppl/duyuhan.jpg
+  comms:
+    - HR
+    - Admin
+      - name: Jessie Chin Kit Hey
+  school: HCI
+  github: jcc-kh
+  level: JC2
+  #img: is missing
+  comms:
+    - WS
+    - DEV 
+  

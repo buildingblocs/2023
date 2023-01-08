@@ -161,12 +161,17 @@
   comms:
     - HR
   level: JC1
+  img: ppl/cherjinen.jpeg
   github: shindeux
+  bio: Hi, I listen to MAMAMOO and play Solitaire for fun
 - name: Bryant Shi
   school: TJC
   comms:
     - WS
   level: JC1
+  img: ppl/bryant.jpeg
+  github: flame-staff
+  bio: Yo My name is Bryant. I am a fellow CS student and heavily enjoy games
 - name: Isaac Kok
   school: DHS
   comms:
@@ -215,3 +220,12 @@
   comms:
     - QA
   bio: Hello, i’m Min Jia :), a Year 5 student in Dunman High School. Nice to meet you! 😁
+  - name: Suraj Kumar
+  school: TJC
+  github: Tsk78
+  level: JC2
+  img: ppl/suraj.jpeg
+  comms:
+    - HR
+    - DEV
+  bio: Hello, I'm Suraj and coding with black coffee and music is my thing.

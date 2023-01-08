@@ -175,7 +175,7 @@
   level: JC2
   img: ppl/isaac.jpg
   github: Kweice
-  bio: Hi I'm Isaac Kok but you can also call me Issac Koh. I do card tricks, listen to mandopop and my favourite artist is Joker Xue.
+  bio: Hi I'm Isaac. I do card tricks, listen to mandopop and my favourite artist is Joker Xue.
 - name: Ian Goh
   school: DHS
   github: TheRoundRoads
@@ -193,7 +193,7 @@
   bio: Yi Wang is a JC2 student studying at Dunman High School. His favourite field in Computer Science is Artificial Intelligence.
 - name: Ma Weiyi
   school: DHS
-  github: 
+  github: fwyr
   level: Year 4
   img: ppl/maweiyi.jpeg
   comms:
@@ -201,7 +201,7 @@
   bio: Hello! I'm Weiyi, a DHS student who just happens to like computers.
 - name: Saw Ze Dong
   school: DHS
-  github: 
+  github: sawzedong
   level: JC1
   img: ppl/sawzedong.jpeg
   comms:
@@ -209,7 +209,7 @@
   bio: hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more
 - name: Tse Min Jia
   school: DHS
-  github: 
+  github: MinJiaTse
   level: JC1
   img: ppl/tseminjia.jpeg
   comms:

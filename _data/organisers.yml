@@ -199,7 +199,7 @@
   comms:
     - Dev
   bio: Hello! I'm Weiyi, a DHS student who just happens to like computers.
- - name: Saw Ze Dong
+- name: Saw Ze Dong
   school: DHS
   github: 
   level: JC1
@@ -207,7 +207,7 @@
   comms:
     - Dev
   bio: hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more
-  - name: Tse Min Jia
+- name: Tse Min Jia
   school: DHS
   github: 
   level: JC1

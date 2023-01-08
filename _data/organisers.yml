@@ -159,7 +159,8 @@
 - name: Cher Jin En
   school: TJC
   comms:
-    - HR
+    - WS
+    - Admin
   level: JC1
   img: ppl/cherjinen.jpeg
   github: shindeux
@@ -168,6 +169,7 @@
   school: TJC
   comms:
     - WS
+    - Admin
   level: JC1
   img: ppl/bryant.jpeg
   github: flame-staff

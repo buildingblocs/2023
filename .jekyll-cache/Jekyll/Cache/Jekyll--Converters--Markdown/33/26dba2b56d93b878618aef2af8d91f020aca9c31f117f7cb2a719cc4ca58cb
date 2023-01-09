@@ -1,0 +1,94 @@
+I"�<section class="jumbo">
+    <div class="main-div">
+        <h1>BuildingBloCS</h1>
+        <h1><span class="huge">2023</span></h1>
+        <!-- <h4>Thursday 2 June - Saturday 4 June</h4> -->
+        <!-- <h4>NUS School of Computing / Online</h4> -->
+	    <!-- <h4><a class="btn" href="/2023/events/june-conference/">Find Out More!</a></h4> -->
+	    <h3> Scroll down for more info! </h3>
+    </div>
+</section>
+<p><br /><br /><br /></p>
+
+<p>This year, our conference is divided into two <strong>different</strong> events, focused on <strong>different</strong> themes altogether. These are the March and June Conferences!</p>
+
+<h2 id="the-march-conference">The March Conference</h2>
+
+<p>The March Conference aims to foster an interest in programming in general, and we do this by introducing participants to 
+various programming languages, such as Python and JavaScript, and also some Markup Formats (notably HTML/CSS).</p>
+
+<p>The introductory concepts introduced in these workshops function as a “first-step” for BuildingBloCS before we move on to 
+bigger and higher-level events.</p>
+
+<p>Capping off the March Conference will be a contest, but one that might catch some off guard. Unlike the classic Hackathon 
+adopted in the June Conference, we will instead be taking inspiration from <a href="https://hacktoberfest.com/">Hacktoberfest</a>
+and <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> by organising our very own “Hackathon” for open-source!</p>
+
+<p>More details will be released shortly.</p>
+
+<h2 id="the-june-conference">The June Conference</h2>
+
+<p>Our flagship event of the year, the June Conference will be held in around the first week of June, with a central theme: 
+<strong>Artificial Intelligence (AI)</strong>. We’ll focus on the integration of AI into numerous fields, like Health, the Government 
+and Industry, and we’re also proud to partner with <a href="https://aisingapore.org/">AI Singapore</a> again!</p>
+
+<h2 id="organising-schools">Organising Schools</h2>
+
+<section class="organisers">
+    
+    <a href="https://dunmanhigh.moe.edu.sg/">
+        <img src="/2023/assets/img/sch/dhs.png" title="Dunman High School" />
+    </a>
+    
+    <a href="https://www.nushigh.edu.sg/">
+        <img src="/2023/assets/img/sch/nushs.png" title="NUS High School" />
+    </a>
+    
+    <a href="https://www.temasekjc.moe.edu.sg/">
+        <img src="/2023/assets/img/sch/tjc.png" title="Temasek Junior College" />
+    </a>
+    
+    <a href="http://www.ri.edu.sg/">
+        <img src="/2023/assets/img/sch/ri.png" title="Raffles Institution" />
+    </a>
+    
+    <a href="https://yijc.moe.edu.sg/">
+        <img src="/2023/assets/img/sch/yijc.png" title="Yishun Innova Junior College" />
+    </a>
+    
+    <a href="https://www.sp.edu.sg/">
+        <img src="/2023/assets/img/sch/sp.png" title="Singapore Polytechnic" />
+    </a>
+    
+</section>
+
+<h2 id="partners">Partners</h2>
+
+<section class="organisers">
+    
+    <a href="https://www.aisingapore.org/">
+        <img src="/2023/assets/img/partner/aisingapore.png" title="AI Singapore" />
+    </a>
+    
+    <a href="https://www.cyberyouth.sg/">
+        <img src="/2023/assets/img/partner/cys.png" title="Cyber Youth Singapore" />
+    </a>
+    
+    <a href="https://www.moe.gov.sg/">
+        <img src="/2023/assets/img/partner/moe.png" title="Ministry of Education, Singapore" />
+    </a>
+    
+    <a href="https://www.comp.nus.edu.sg/">
+        <img src="/2023/assets/img/partner/nussoc.png" title="NUS School of Computing" />
+    </a>
+    
+    <a href="https://simcc.org">
+        <img src="/2023/assets/img/partner/simcc.png" title="SIMCC" />
+    </a>
+    
+    <a href="https://www.infosec-city.com/">
+        <img src="/2023/assets/img/partner/sincon.png" title="SINCON" />
+    </a>
+    
+</section>
+:ET

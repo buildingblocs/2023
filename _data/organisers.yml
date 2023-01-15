@@ -159,14 +159,21 @@
 - name: Cher Jin En
   school: TJC
   comms:
-    - HR
+    - WS
+    - Admin
   level: JC1
+  img: ppl/cherjinen.jpeg
   github: shindeux
+  bio: Hi, I listen to MAMAMOO and play Solitaire for fun
 - name: Bryant Shi
   school: TJC
   comms:
     - WS
+    - Admin
   level: JC1
+  img: ppl/bryant.jpeg
+  github: flame-staff
+  bio: Yo My name is Bryant. I am a fellow CS student and heavily enjoy games
 - name: Isaac Kok
   school: DHS
   comms:
@@ -215,3 +222,53 @@
   comms:
     - QA
   bio: Hello, i’m Min Jia :), a Year 5 student in Dunman High School. Nice to meet you! 😁
+  - name: Suraj Kumar
+  school: TJC
+  github: Tsk78
+  level: JC2
+  img: ppl/suraj.png
+  comms:
+    - HR
+    - DEV
+  bio: Hello, I'm Suraj and coding with black coffee and music is my thing.
+    - name: Le Duc Minh
+  school: HCI
+  github: ID-minh4354
+  #level: is missing
+  img: ppl/leducminh.jpeg
+  comms:
+    - Admin
+    - HR
+      - name: Joey Tang
+  school: HCI
+  github: fishjojo1
+  level: JC2
+  img: ppl/joeytang.jpeg
+  comms:
+    - WS
+    - DEV
+      - name: Isaac Yeap Sheng Rong
+  school: HCI
+  github: iysr
+  level: JC2
+  img: ppl/isaacyeap.jpeg
+  comms:
+    - HR
+    - Admin
+      - name: Du Yuhan
+  school: MGS
+  github: TwelvePenguins
+  level: year 4
+  img: ppl/duyuhan.jpeg
+  comms:
+    - HR
+    - Admin
+      - name: Jessie Chin Kit Hey
+  school: HCI
+  github: jcc-kh
+  level: JC2
+  #img: is missing
+  comms:
+    - WS
+    - DEV 
+  

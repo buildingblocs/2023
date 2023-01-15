@@ -242,7 +242,7 @@
       - name: Joey Tang
   school: HCI
   github: fishjojo1
-  #level: is missing
+  level: JC2
   img: ppl/joeytang.jpeg
   comms:
     - WS
@@ -250,7 +250,7 @@
       - name: Isaac Yeap Sheng Rong
   school: HCI
   github: iysr
-  #level: is missing
+  level: JC2
   img: ppl/isaacyeap.jpeg
   comms:
     - HR

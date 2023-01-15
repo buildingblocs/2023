@@ -235,7 +235,7 @@
   school: HCI
   github: ID-minh4354
   #level: is missing
-  img: ppl/leducminh.jpg
+  img: ppl/leducminh.jpeg
   comms:
     - Admin
     - HR
@@ -243,7 +243,7 @@
   school: HCI
   github: fishjojo1
   #level: is missing
-  img: ppl/joeytang.jpg
+  img: ppl/joeytang.jpeg
   comms:
     - WS
     - DEV
@@ -251,7 +251,7 @@
   school: HCI
   github: iysr
   #level: is missing
-  img: ppl/isaacyeap.jpg
+  img: ppl/isaacyeap.jpeg
   comms:
     - HR
     - Admin
@@ -259,7 +259,7 @@
   school: MGS
   github: TwelvePenguins
   level: year 4
-  img: ppl/duyuhan.jpg
+  img: ppl/duyuhan.jpeg
   comms:
     - HR
     - Admin

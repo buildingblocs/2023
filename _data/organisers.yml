@@ -222,7 +222,7 @@
   comms:
     - QA
   bio: Hello, i’m Min Jia :), a Year 5 student in Dunman High School. Nice to meet you! 😁
-    - name: Suraj Kumar
+- name: Suraj Kumar
   school: TJC
   github: Tsk78
   level: JC2
@@ -231,7 +231,7 @@
     - HR
     - DEV
   bio: Hello, I'm Suraj and coding with black coffee and music is my thing.
-    - name: Le Duc Minh
+- name: Le Duc Minh
   school: HCI
   github: ID-minh4354
   #level: is missing
@@ -239,7 +239,7 @@
   comms:
     - Admin
     - HR
-      - name: Joey Tang
+- name: Joey Tang
   school: HCI
   github: fishjojo1
   level: JC2
@@ -247,7 +247,7 @@
   comms:
     - WS
     - DEV
-      - name: Isaac Yeap Sheng Rong
+- name: Isaac Yeap Sheng Rong
   school: HCI
   github: iysr
   level: JC2
@@ -255,7 +255,7 @@
   comms:
     - HR
     - Admin
-      - name: Du Yuhan
+- name: Du Yuhan
   school: MGS
   github: TwelvePenguins
   level: year 4
@@ -263,7 +263,7 @@
   comms:
     - HR
     - Admin
-      - name: Jessie Chin Kit Hey
+- name: Jessie Chin Kit Hey
   school: HCI
   github: jcc-kh
   level: JC2

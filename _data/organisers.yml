@@ -270,3 +270,11 @@
   comms:
     - WS
     - DEV 
+- name: Ng Johnson
+  school: DHS
+  github: cpp-johnny
+  level: JC1
+  comms:
+    - DEV
+  bio: Hello! I’m Johnson and I like cats
+  img: ppl/ngjohnson.jpg

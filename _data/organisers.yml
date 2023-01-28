@@ -276,6 +276,26 @@
   level: JC1
   img: ppl/ngjohnson.jpg
   comms:
-    - DEV
+    - Dev
   bio: Hello! I’m Johnson and I like cats
-
+- name: Ghayathri
+  school: GIIS
+  github: Gau567
+  level: IBY1
+  #comms missing
+  #img missing
+  bio: Hi, I am Ghayathri and I am passionate about AI.
+- name: Nikita Sivash
+  school: GIIS
+  github: nikithasivash
+  level: IBY1
+  #comms missing
+  #img missing
+  bio: Hi, my name is Nikitha. My dream is to become a software engineer.
+- name: Varshini
+  school: GIIS
+  github: varshuarul
+  level: IBY1
+  #comms missing
+  #img missing
+  bio: Hi I'm Varshini.

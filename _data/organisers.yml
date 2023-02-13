@@ -278,3 +278,43 @@
   comms:
     - Dev
   bio: Hello! I’m Johnson and I like cats
+- name: Edwin Liew
+  school: ACJC
+  github: edwinlmy5
+  level: JC2
+  img: ppl/Edwin_Liew.jpg
+  comms:
+    - WS
+  bio: My name is Edwin and I'm one of the project managers for ACJC's Technology Council. I've been interested in computer science, in particular coding, since secondary school where I was in Infocomm and part of the EXCO as well. Currently, I am taking Physics, Further Math and Literature as my subjects and hopefully the thinking cultivated across my disciplines will help me in learning coding as my interest.
+- name: Justin Wang
+  school: ACJC
+  github: plwanejexperto
+  level: JC2
+  img: ppl/Justin_Wang.jpeg
+  comms:
+    - QA
+  bio: I took O Level Computing and am currently taking A level computing. I have an interest in designing UI and UX and I am passionate to learn more about computing :)
+- name: Oon Zheng Kang
+  school: DHS
+  github: ozk100
+  level: JC1
+  img: ppl/Oon_Zheng_Kang.jpg
+  comms:
+    - HR
+  bio: Hi, I'm Zheng Kang, a JC1 student from DHS.
+- name: Wayne Ang
+  school: ACJC
+  github: Zernier
+  level: JC2
+  img: ppl/Wayne_Ang.JPG
+  comms:
+    - Pubs
+  bio: I am a JC2 from ACJC currently. In my free time, I like to read books, listen to new music and play the guitar. I started learning coding last year and have developed a keen interest in it and would hope to pursue some tangible projects in the future.
+- name: Leow Yu Long
+  school: DHS
+  github: jadedrag1108
+  level: JC2
+  img: ppl/leow_yuleong.jpg
+  comms:
+    - Dev
+  bio: Hi im Yu Leong. I'm currently a JC2 computing student studying at DHS

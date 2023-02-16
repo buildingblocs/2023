@@ -318,3 +318,11 @@
   comms:
     - Dev
   bio: Hi im Yu Leong. I'm currently a JC2 computing student studying at DHS
+- name: Eugene Ang
+  school: TJC
+  github: python-noob-dotcom
+  level: JC1
+  img: ppl/eugeneang.jpg
+  comms:
+    - Dev
+  bio: Hi, I believe that caffeine is a miracle drug

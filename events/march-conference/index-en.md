@@ -46,12 +46,13 @@ adopted in the June Conference, we will instead be organising our very own "Hack
 | 13 March, Monday | 10.00 AM to 12.00 PM | Introduction to HTML, CSS and Javascript |
 | 16 March, Thursday | 9.00 AM to 5.00 PM | Starvation Competition | 
 
+## Register
+
+Interested? Sign up for our March Conference [***here!***](https://go.buildingblocs.sg/march2023signup)
+
+---
+
 ## Sponsors
 
-<p float="left">
- 
-<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png" width="200"/> 
-
-<img src="https://user-images.githubusercontent.com/103890582/221178600-b4816c1b-95dc-40c7-bd74-888bb325b28c.png" width="200"/> 
+<img src="https://user-images.githubusercontent.com/103890582/221182244-dfb1da34-daec-46e4-b46d-35bc6478618a.png" width="200"/> &nbsp; &nbsp; &nbsp;  <img src="https://www.dlt.com/sites/default/files/logos/Red-Hat_logo.png" width="200"/> 
   
-</p>

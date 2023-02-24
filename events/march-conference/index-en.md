@@ -8,7 +8,7 @@ lang: en
 
 # March Conference
 
-The March Conference aims to foster an interest in programming in general by featuring three beginner-level workshops on Python, Data Analytics, and HTML, CSS and Javascript. To put your learning to the test, try out "Starvation", our very own open-source hackathon to sum up the conference!
+The March Conference aims to foster an interest in programming by featuring three beginner-level workshops on Python, Data Analytics, and HTML, CSS and Javascript. To put your learning to the test, try out "Starvation", our very own open-source hackathon that sums up the conference!
 
 ## Key details
 - Dates: 12th - 13th March for workshops, 16th March for Starvation competition
@@ -29,11 +29,11 @@ Pick up NumPy, Pandas and Matplotlib skills and learn their basic operations and
 
 Wonder how websites are made? Experience the process yourself. Learn how to design a simple website from our experienced volunteers in this workshop!
 
-## _Starvation_ Competition
+## Starvation Competition
 
 Capping off the March Conference will be a contest, but one that might catch some off guard. Unlike the classic Hackathon 
 adopted in the June Conference, we will instead be organising our very own "Hackathon" for open-source
- ー "Starvation". It's an open source gamified coding platform inspired by [CodeCombat](https://codecombat.com/), with the gameplay influenced by [BattleCats](https://battlecats.club/en/series/battlecats/). Solve coding challenges applying your Python and data skills from the workshops for a beginner progression!
+ ー Starvation. It's an open source gamified coding platform inspired by [CodeCombat](https://codecombat.com/), with the gameplay influenced by [BattleCats](https://battlecats.club/en/series/battlecats/). Solve coding challenges applying your Python and data skills from the workshops for a beginner progression!
  
 ## Schedule
 

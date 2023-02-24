@@ -29,12 +29,19 @@ Pick up NumPy, Pandas and Matplotlib skills and learn their basic operations and
 
 Wonder how websites are made? Experience the process yourself. Learn how to design a simple website from our experienced volunteers in this workshop!
 
-
-
-## _"Starvation"_
+## _Starvation_ Competition
 
 Capping off the March Conference will be a contest, but one that might catch some off guard. Unlike the classic Hackathon 
 adopted in the June Conference, we will instead be organising our very own "Hackathon" for open-source
  ー "Starvation". It's an open source gamified coding platform inspired by [CodeCombat](https://codecombat.com/), with the gameplay influenced by [BattleCats](https://battlecats.club/en/series/battlecats/). Solve coding challenges applying your Python and data skills from the workshops for a beginner progression!
  
- 
+## Schedule
+
+> All timings are in SGT (GMT +8:00)!
+
+| Date | Time | Activity |
+| --- | --- | --- |
+| 12 March, Sunday | 10.00 AM to 1.00 PM | Introduction to Python |
+| 12 March, Sunday | 2.00 PM to 5.00 PM | Introduction to Data Analytics |
+| 13 March, Monday | 10.00 AM to 12.00 PM | Introduction to HTML, CSS and Javascript |
+| 16 March, Thursday | 9.00 AM to 5.00 PM | Starvation Competition | 

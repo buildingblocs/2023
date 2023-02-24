@@ -39,12 +39,31 @@ adopted in the June Conference, we will instead be organising our very own "Hack
 
 > All timings are in SGT (GMT +8:00)!
 
-| Date | Time | Activity |
-| --- | --- | --- |
-| 12 March, Sunday | 10.00 AM to 1.00 PM | Introduction to Python |
-| 12 March, Sunday | 2.00 PM to 5.00 PM | Introduction to Data Analytics |
-| 13 March, Monday | 10.00 AM to 12.00 PM | Introduction to HTML, CSS and Javascript |
-| 16 March, Thursday | 9.00 AM to 5.00 PM | Starvation Competition | 
+<table>
+ <tr>
+  <th>Date</th>
+  <th>Time</th>
+  <th>Activity</th>
+ </tr>
+ <tr>
+  <td rowspan="2">12 March, Sunday</td>
+  <td>10.00AM to 1.00 PM</td>
+  <td>Introduction to Python</td>
+ </tr>
+ <tr>
+  <td>2.00 PM to 5.00 PM</td>
+  <td>Introduction to Data Analytics</td>
+ </tr>
+ <tr>
+  <td>13 March, Monday</td>
+  <td>10.00 AM to 12.00 PM</td>
+  <td>Introduction to HTML, CSS and Javascript</td>
+ </tr>
+ <tr>
+  <td>16 March, Thursday</td>
+  <td>9.00 AM to 5.00 PM</td>
+  <td>Starvation Competition<td>
+</table>
 
 ## Register
 

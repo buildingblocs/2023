@@ -62,7 +62,7 @@ adopted in the June Conference, we will instead be organising our very own "Hack
  <tr>
   <td>16 March, Thursday</td>
   <td>9.00 AM to 5.00 PM</td>
-  <td>Starvation Competition<td>
+  <td>Starvation Competition</td>
 </table>
 
 ## Register

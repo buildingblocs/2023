@@ -65,9 +65,7 @@ adopted in the June Conference, we will instead be organising our very own "Hack
   <td>Starvation Competition</td>
 </table>
 
-## Register
-
-Interested? Sign up for our March Conference [***here!***](https://go.buildingblocs.sg/march2023signup)
+## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg" > SIGN UP NOW ! </a> 
 
 ---
 

@@ -33,7 +33,7 @@ Wonder how websites are made? Experience the process yourself. Learn how to desi
 
 Capping off the March Conference will be a contest, but one that might catch some off guard. Unlike the classic Hackathon 
 adopted in the June Conference, we will instead be organising our very own "Hackathon" for open-source
- ー Starvation. It's an open source gamified coding platform inspired by [CodeCombat](https://codecombat.com/), with the gameplay influenced by [BattleCats](https://battlecats.club/en/series/battlecats/). Solve coding challenges applying your Python and data skills from the workshops for a beginner progression!
+ ー Starvation. It's an open source gamified coding platform inspired by [CodeCombat](https://codecombat.com/), with the gameplay influenced by [BattleCats](https://battlecats.club/en/series/battlecats/). Solve coding challenges by applying your Python and data skills from the workshops for a beginner progression!
  
 ## Schedule
 

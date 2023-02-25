@@ -24,7 +24,7 @@ We welcome everyone who are interested and wants to attend BuildingBloCS 2023's 
 
 **Discord Link:** <https://go.buildingblocs.sg/discord>
 
-## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg/edit" > SIGN UP NOW ! </a> 
+## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg" > SIGN UP NOW ! </a> 
 
 ## Workshops 
 

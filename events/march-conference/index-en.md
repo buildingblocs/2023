@@ -8,54 +8,68 @@ lang: en
 
 # March Conference
 
-## General Information 
+The March Conference aims to foster an interest in programming by featuring three beginner-level workshops on Python, Data Analytics, and HTML, CSS and Javascript. To put your learning to the test, try out "Starvation", our very own open-source hackathon that sums up the conference!
 
-The March Conference aims to foster an interest in programming in general. It includes three beginner-level workshops on Python, Data Analytics, and HTML, CSS and Javascript.
-At the March Conference, we'll be holding a competition on our new platform, Starvation! It's an open source gamified coding platform inspired by CodeCombat, with the gameplay inspired by BattleCats. 
-We welcome everyone who are interested and wants to attend BuildingBloCS 2023's March Conference! 
+## Key details
+- Dates: 12th - 13th March for workshops, 16th March for Starvation competition
+- Venue: Online
+- Email contact for queries: <hello@buildingblocs.sg>
 
-**March Conference dates:** 12th - 13th March for workshops, 16th March for Starvation competition
+## Workshops
 
-**Venue:** Online 
+### _Introduction to Python_
 
-**Website:** <https://buildingblocs.sg>  
+This extensive workshop equips you with foundational Python skills such as basic data types, if statements, comparisons, loops and more!
 
-**Email contact for queries:** <hello@buildingblocs.sg>
+### _Introduction to Data Analytics_
 
-**Discord Link:** <https://go.buildingblocs.sg/discord>
+Pick up NumPy, Pandas and Matplotlib skills and learn their basic operations and applications, essential for analysing trends and data with Python.
+
+### _Introduction to HTML, CSS and Javascript_
+
+Wonder how websites are made? Experience the process yourself. Learn how to design a simple website from our experienced volunteers in this workshop!
+
+## Starvation Competition
+
+Capping off the March Conference will be a contest, but one that might catch some off guard. Unlike the classic Hackathon 
+adopted in the June Conference, we will instead be organising our very own "Hackathon" for open-source
+ ー Starvation. It's an open source gamified coding platform inspired by [CodeCombat](https://codecombat.com/), with the gameplay influenced by [BattleCats](https://battlecats.club/en/series/battlecats/). Solve coding challenges by applying your Python and data skills from the workshops for a beginner progression!
+ 
+## Schedule
+
+> All timings are in SGT (GMT +8:00)!
+
+<table>
+ <tr>
+  <th>Date</th>
+  <th>Time</th>
+  <th>Activity</th>
+ </tr>
+ <tr>
+  <td rowspan="2">12 March, Sunday</td>
+  <td>10.00AM to 1.00 PM</td>
+  <td>Introduction to Python</td>
+ </tr>
+ <tr>
+  <td>2.00 PM to 5.00 PM</td>
+  <td>Introduction to Data Analytics</td>
+ </tr>
+ <tr>
+  <td>13 March, Monday</td>
+  <td>10.00 AM to 12.00 PM</td>
+  <td>Introduction to HTML, CSS and Javascript</td>
+ </tr>
+ <tr>
+  <td>16 March, Thursday</td>
+  <td>9.00 AM to 5.00 PM</td>
+  <td>Starvation Competition</td>
+</table>
 
 ## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg" > SIGN UP NOW ! </a> 
 
-## Workshops 
+---
 
-<details> 
-  <summary> <b> Introduction to Python </b> </summary>
-  <b>Date:</b> Sunday, 12th March 2023 
-  <br><b>Time:</b> 10:00am to 1:00pm 
-  <br><b>Description:</b> Pick up foundational Python skills such as basic data types, if statements, comparisons, loops, functions and more!
-</details> 
-  <br>
-<details>
-  <summary> <b> Introduction to Data Analytics </b> </summary> 
-  <b>Date:</b> Sunday, 12th March 2023 
-  <br><b>Time: 2:00pm to 5:00pm
-  <br><b>Description:</b> Pick up NumPy, Pandas and Matplotlib skills and learn basic operations and applications, useful for analysing trends and data.
-</details>
-<br>
-<details>
-  <summary><b> Introduction to HTML,CSS and Javascript </b> </summary> 
-  <b>Date:</b> Monday, 13th March 2023 
-  <br><b>Time: 10:00am to 12:00pm 
-  <br><b>Description:</b> Ever wondered how websites are made? Ever been interested in creating your own website ? Learn how to design a simple website from our experienced volunteers!
-</details>
-<br>
- 
-## Competition 
-  <details> 
-    <summary> <b> Starvation Competition </b></summary>
-    <b>Date:</b> 16th March 2023, Thursday 
-    <br><b>Time: 9:00am - 5:00pm 
-    <br><b>Description:</b> Experience an open source gamified coding platform inspired by CodeCombat and gameplay inspired by Battle Cats. Solve coding challenges applying your Python and data skills from the workshops for a beginner progression!
-</details>
-<br>
-    
+## Sponsors
+
+<img src="https://user-images.githubusercontent.com/103890582/221182244-dfb1da34-daec-46e4-b46d-35bc6478618a.png" width="200"/> &nbsp; &nbsp; &nbsp;  <img src="https://www.dlt.com/sites/default/files/logos/Red-Hat_logo.png" width="200"/> 
+  

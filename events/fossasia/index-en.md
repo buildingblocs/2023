@@ -23,7 +23,7 @@ BuildingBloCS is proud to be partnering FOSSASIA to present several workshops an
 - Exhibition Dates: Thursday, 13 April, 8:30 AM - Saturday, 15 April, 6:00 PM
 - Talk/Workshop Dates: Friday, 14 April, 6.30 PM - 9.45 PM
 - Venue: Online and in-person at Lifelong Learning Institute
-- More information: https://events.fossasia.org/
+- More information: [events.fossasia.org](https://events.fossasia.org/)
 
 ## Talks/Workshops
 

@@ -8,7 +8,9 @@ lang: en
 
 # March Conference
 
-The March Conference aims to foster an interest in programming by featuring three beginner-level workshops on Python, Data Analytics, and HTML, CSS and Javascript. To put your learning to the test, try out "Starvation", our very own open-source hackathon that sums up the conference!
+<p style="text-align: center">The March Conference aims to foster an interest in programming by featuring three beginner-level workshops on Python, Data Analytics, and HTML, CSS and Javascript. To put your learning to the test, try out "Starvation", our very own open-source hackathon that sums up the conference!</p>
+
+---
 
 ## Key details
 - Dates: 12th - 13th March for workshops, 16th March for Starvation competition
@@ -39,7 +41,6 @@ adopted in the June Conference, we will instead be organising our very own "Hack
 
 > All timings are in SGT (GMT +8:00)!
 
-
 <table>
  <tr>
   <th>Date</th>
@@ -64,15 +65,13 @@ adopted in the June Conference, we will instead be organising our very own "Hack
   <td>16 March, Thursday</td>
   <td>9.00 AM to 5.00 PM</td>
   <td>Starvation Competition</td>
+ </tr>
 </table>
-
-<br>
 
 ## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg" > Sign up here! </a> 
 
-<br>
+---
 
 ## Sponsors
 
 <img src="https://user-images.githubusercontent.com/103890582/221182244-dfb1da34-daec-46e4-b46d-35bc6478618a.png" width="200"/> &nbsp; &nbsp; &nbsp;  <img src="https://www.dlt.com/sites/default/files/logos/Red-Hat_logo.png" width="200"/> 
-  

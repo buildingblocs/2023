@@ -39,6 +39,7 @@ adopted in the June Conference, we will instead be organising our very own "Hack
 
 > All timings are in SGT (GMT +8:00)!
 
+
 <table>
  <tr>
   <th>Date</th>
@@ -65,9 +66,11 @@ adopted in the June Conference, we will instead be organising our very own "Hack
   <td>Starvation Competition</td>
 </table>
 
-## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg" > SIGN UP NOW ! </a> 
+<br>
 
----
+## <a class="btn" href="https://docs.google.com/forms/d/1gS5D7_XGUPRJ--6bQRK5CuMSx5q9WyvfgZD_EcgSCmg" > Sign up here! </a> 
+
+<br>
 
 ## Sponsors
 

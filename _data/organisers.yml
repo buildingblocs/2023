@@ -326,7 +326,7 @@
   comms:
     - HR
   bio: Hi, I'm Eugene and i believe that caffeine is a miracle drug
-  - name: Cheong Jun Kai Harry
+- name: Cheong Jun Kai Harry
   school: DHS
   github: Harry-cheong
   level: JC1
@@ -336,7 +336,7 @@
     - Dev
     - WS
   bio: I'm Harry. I love tinkering with tech. I love card throwing. 
-    - name: Mahamantra Sivagnanam
+- name: Mahamantra Sivagnanam
   school: GIIS
   github: mahaachu
   level: 
@@ -344,7 +344,7 @@
   comms:
     - Admin
   bio: Hi! My name's Mahamantra Sivagnanam. I really enjoy programming and coming up with new ideas and innovations
-    - name: Chee Justin Suwattana
+- name: Chee Justin Suwattana
   school: DHS
   github: Giganaer
   level: JC1

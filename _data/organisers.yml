@@ -326,3 +326,29 @@
   comms:
     - HR
   bio: Hi, I'm Eugene and i believe that caffeine is a miracle drug
+  - name: Cheong Jun Kai Harry
+  school: DHS
+  github: Harry-cheong
+  level: JC1
+  img: ppl/harry.jpg
+  comms:
+    - Admin
+    - Dev
+    - WS
+  bio: I'm Harry. I love tinkering with tech. I love card throwing. 
+    - name: Mahamantra Sivagnanam
+  school: GIIS
+  github: mahaachu
+  level: 
+  img: ppl/Mahamantra_Sivagnanam.jpeg
+  comms:
+    - Admin
+  bio: Hi! My name's Mahamantra Sivagnanam. I really enjoy programming and coming up with new ideas and innovations
+    - name: Chee Justin Suwattana
+  school: DHS
+  github: Giganaer
+  level: JC1
+  img: ppl/Chee_Justin.jpg
+  comms:
+    - Admin
+  bio: Hi I'm Justin, a JC1 computing student in DHS who also likes playing guitar

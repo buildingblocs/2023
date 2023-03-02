@@ -41,3 +41,61 @@ Graphs are all around us. From railway networks to puzzle states it is clear tha
 
 ### _Processing and Presenting Data With Python’s Numpy, Pandas, Seaborn And More!_
 This workshop will focus on data science and how it is applicable to businesses. We will focus on data science modules of python such as Numpy and Pandas and will teach them on how to use such modules to read CSV files and other file types, delete/remove or modify data and export it or present it using data visualisation modules such as matplotlib and seaborn. 
+
+## Schedule
+
+> All timings are in SGT (GMT +8:00).
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Main Event Room</th>
+    <th>Training Room 2-1</th>
+    <th>Training Room 2-2</th>
+  </tr>
+  <tr>
+    <td>6.30PM - 6.45PM</td>
+    <td rowspan="2">Talk: Steganographic malware embedding in AI models</td>
+    <td rowspan="8">Workshop: Artificial Intelligence in Astronomy and Physics</td>
+    <td rowspan="13">Workshop: Unleashing the Power of Graph Neural Networks</td>
+  </tr>
+  <tr>
+    <td>6.45PM - 7:00PM</td>
+  </tr>
+  <tr> 
+    <td>7.00PM - 7.15PM</td>
+    <td rowspan="2">Talk: Exploring the Forward-Forward Algorithm</td>
+  </tr> 
+  <tr>
+    <td>7.15PM - 7.30PM</td> 
+  </tr> 
+  <tr> 
+    <td>7.30PM - 7.45PM</td> 
+    <td>Break</td>
+  </tr> 
+  <tr>
+    <td>7.45PM - 8.00PM</td>
+    <td rowspan="8">Workshop: Data Analysis and Visualization with Python</td>
+  </tr>
+  <tr>
+    <td>8.00PM - 8.15PM</td>
+  </tr>
+  <tr>
+    <td>8.15PM - 8.30PM</td>
+  </tr>
+  <tr>
+    <td>8.30PM - 8.45PM</td>
+    <td rowspan="5">Break</td>
+  </tr>
+  <tr>
+    <td>8.45PM = 9.00PM</td>
+  </tr>
+  <tr>
+    <td>9.00PM - 9.15PM</td>
+  </tr>
+  <tr>
+    <td>9.15PM - 9.30PM</td>
+  </tr>
+  <tr>
+    <td>9.30PM - 9.45PM</td>
+</table>

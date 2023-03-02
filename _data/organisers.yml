@@ -258,11 +258,12 @@
 - name: Du Yuhan
   school: MGS
   github: TwelvePenguins
-  level: year 4
+  level: Year 4
   img: ppl/duyuhan.jpeg
   comms:
     - HR
     - Admin
+  bio: Year 4 student from MGS. Your average workaholic penguin and Red Dead Redemption 2 enjoyer. 
 - name: Jessie Chin Kit Hey
   school: HCI
   github: jcc-kh

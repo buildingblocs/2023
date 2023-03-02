@@ -193,7 +193,7 @@ Without our organizers, we wouldn't be able to organize much of BuildingBloCS, h
                     <img src="https://github.com/buildingblocs/2023/edit/main/about/organisers/index-en.md" width="400px" />
                 </div>
                 <h1 class="card-title">Mr Gi Soong Chee</h1>
-                <div class="card-responsename"><a href="https://github.com/dhsgisc" target="_blank" rel="noopener">@cpsggisc</a></div>
+                <div class="card-responsename"><a href="https://github.com/cpsggisc" target="_blank" rel="noopener">@cpsggisc</a></div>
                 <p class="card-desc"><i>Make it harder.</i></p>
             </div>
         </div>

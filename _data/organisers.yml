@@ -213,7 +213,7 @@
   img: ppl/sawzedong.jpeg
   comms:
     - Dev
-  bio: hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more
+  bio: Hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more
 - name: Tse Min Jia
   school: DHS
   github: MinJiaTse
@@ -359,7 +359,7 @@
   img: ppl/adapaka_vinita.jpg
   comms:
     - HR
-  bio: Although I am a beginner to coding, I am a fast learner and am passionate about coding and programming. I also enjoy dancing and have been learning Indian classical dance for about 8 years.
+  bio: I am a fast learner and am passionate about coding and programming. I also enjoy dancing.
 - name: Tang Jiaxuan
   school: TJC
   github: Jiaxuan06
@@ -375,15 +375,15 @@
   img: ppl/Clara_Lee.jpeg
   comms:
     - WS
-  bio: I'm Clara from ASRJC! My CCA is badminton and used to do coding during my free time and is now taking computing for A levels. I crochet in my free time and aspire to either take a computer science degree in the future or go to NIE.
+  bio: I'm Clara from ASRJC! My CCA is badminton I take computing for A levels. I crochet and do coding in my free time
 - name: Ashley Alexster
   school: TJC
   github: IsoceledAsh
   level: JC1
-  img: ppl/Ashley_Alexster.jpeg
+  img: ppl/Ashley_Alexster.jpg
   comms:
     - Admin
-  bio: Hi, I'm Ashley! I have always been interested in CS stuff since I was young, and currently take Computing as a subject in JC. Not much experience for now, but I hope to gain more especially through being an organiser for BBCS.
+  bio: Hi, I'm Ashley! I have always been interested in CS stuff since I was young, and currently take Computing as a subject in JC
 - name: Kothari Kashvi Chintan
   school: TJC
   github: kat-fly
@@ -391,7 +391,7 @@
   img: ppl/Kashvi_Kothari.jpg
   comms:
     - Admin
-  bio: I have been a loyal, committed member of Infocomm Club since primary school and I held the position of chief programming in IFC in sec 4. I am currently taking H2 computing (JC)
+  bio: I have been a member of Infocomm Club since primary school. I currently take H2 computing.
 - name: Quoid Jing-Xuan Andrel
   school: TJC
   github: antndrel

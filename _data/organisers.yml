@@ -286,7 +286,7 @@
   img: ppl/Edwin_Liew.jpg
   comms:
     - WS
-  bio: My name is Edwin and I'm one of the project managers for ACJC's Technology Council. I've been interested in computer science, in particular coding, since secondary school where I was in Infocomm and part of the EXCO as well. Currently, I am taking Physics, Further Math and Literature as my subjects and hopefully the thinking cultivated across my disciplines will help me in learning coding as my interest.
+  bio: My name is Edwin and I'm one of the project managers for ACJC's Technology Council
 - name: Justin Wang
   school: ACJC
   github: plwanejexperto
@@ -310,8 +310,7 @@
   img: ppl/Wayne_Ang.JPG
   comms:
     - Pubs
-  bio: I am a JC2 from ACJC currently. In my free time, I like to read books, listen to new music and play the guitar. I started learning coding last year and have developed a keen interest in it and would hope to pursue some tangible projects in the future.
-- name: Leow Yu Long
+  bio: I am a JC2 from ACJC currently. I like reading books, listening to new music and playing the guitar.
   school: DHS
   github: jadedrag1108
   level: JC2

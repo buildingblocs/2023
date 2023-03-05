@@ -72,6 +72,31 @@ adopted in the June Conference, we will instead be organising our very own "Hack
 
 ---
 
+## FAQ
+
+<strong>Are the workshops / Starvation competition online?</strong>
+<br>Yes, our march conference is held on Zoom.
+
+<strong>Why should I sign up?</strong>
+<br>You can learn a whole lot of new skills and its (arguably) fun!
+
+<strong>How will I receive my prizes if I win during the Starvation competition?</strong>
+<br>We will pass you the prizes through your school leads or mail them to you if your school does not have any organisers in BuildingBloCS. Do note that prizes are only available for students residing in Singapore due to logistical constraints.
+
+<strong>What are the prizes?</strong>
+<br>They are still unconfirmed. All we can reveal at this stage is that it will be likely given out to the Top 3 from each of the JC / Secondary categories.
+
+<strong>Must I sign up for all workshops / hackathons?</strong>
+<br>No, just select those you are interested in.
+
+<strong>What if something pops up and I can’t make it?</strong>
+<br>If we have not sent out your conference confirmation email for the specific workshop / hackathon, please edit your form response accordingly. Otherwise, please email us at <a href="mailto:buildingblocs@computing.sg">buildingblocs@computing.sg</a> or approach us on <a href="https://discord.gg/VSHyrbsJFs">Discord</a> in any appropriate channels and we will update your signup status accordingly.
+
+<strong>Must I be present the entire time for the Starvation Competition?</strong>
+<br>Nope, you can participate in the competition at your own pace. But do note that the competition closes at <b>5pm SGT</b>.
+
+---
+
 ## Sponsors
 
 <img src="https://user-images.githubusercontent.com/103890582/221182244-dfb1da34-daec-46e4-b46d-35bc6478618a.png" width="200"/> &nbsp; &nbsp; &nbsp;  <img src="https://www.dlt.com/sites/default/files/logos/Red-Hat_logo.png" width="200"/> 

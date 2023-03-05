@@ -23,7 +23,7 @@ BuildingBloCS is proud to be partnering FOSSASIA to present several workshops an
 - Exhibition Dates: Thursday, 13 April, 8:30 AM - Saturday, 15 April, 6:00 PM
 - Talk/Workshop Dates: Friday, 14 April, 6.30 PM - 9.45 PM
 - Venue: Online and in-person at Lifelong Learning Institute
-- More information: https://events.fossasia.org/
+- More information: [events.fossasia.org](https://events.fossasia.org/)
 
 ## Talks/Workshops
 
@@ -34,10 +34,75 @@ During the NeurIps 2022, Geoffrey Hinton introduced the Forward-Forward algorith
 Traditional steganographic techniques are widespread and easily identified. With the explosion of embedded AI in mainstream applications, let's take a new perspective and explore its implications for the steganographic scene.
 
 ### _Artificial Intelligence in Astronomy and Physics_
-We demonstrate the importance of artificial intelligence in the field of astronomy and physics, through explaining the underlying mechanisms behind neural networks: a key machine learning algorithm used in many applications. We then show how the implementations of different neural network architectures can be used in the fields of astronomy and physics, such as the implementation of Convolutional Neural Networks to classify types of astronomical bodies using inputs from the empirical electromagnetic wavelengths emitted by the bodies after spectroscopy, and to detect gravitational waves from time series waves from the LIGO interferometers with a Vision Transformer Neural Network after applying the Fast Fourier Transformation, and high energy particle detection with Neural Networks in CERN.
+We demonstrate the importance of artificial intelligence in the field of astronomy and physics, through explaining the underlying mechanisms behind neural networks: a powerful machine learning algorithm which uses trainable parameters in a graph to generate an output, and uses in Astronomical Object Classification and Gravitational Wave Detection.
 
 ### _Unleashing the Power of Graph Neural Networks_
 Graphs are all around us. From railway networks to puzzle states it is clear that they are an integral type of data. However when it comes to machine learning, standard neural networks do not account for structural information which is key when learning on graph-structured data. Graph neural networks circumvent this problem by learning both structural and spatial biases from the input graph. In this workshop, we will be exploring how Graph neural nets work and their different applications!
 
 ### _Processing and Presenting Data With Python’s Numpy, Pandas, Seaborn And More!_
-This workshop will focus on data science modules of python such as Numpy and Pandas and will teach them on how to use such modules to read CSV files and other filetypes, delete/remove or modify data and export it or present it using data visualisation modules such as matplotlib and seaborn. The workshop will begin on a slides presentation on why data science is important and how it is applicable to modern businesses/ companies and examples of applications such as client’s satisfaction or sales data and how analysing such data is essential to developing business strategies to further improve the business’s overall profits. We will then teach the programming part of python modules using an IDE and with a data set from Kaggle/Data.gov.sg.
+This workshop will focus on data science and how it is applicable to businesses. We will focus on data science modules of python such as Numpy and Pandas and will teach them on how to use such modules to read CSV files and other file types, delete/remove or modify data and export it or present it using data visualisation modules such as matplotlib and seaborn. 
+
+## Schedule
+
+> All timings are in SGT (GMT +8:00).
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Main Event Room</th>
+    <th>Training Room 2-1</th>
+    <th>Training Room 2-2</th>
+  </tr>
+  <tr>
+    <td>6.30PM - 6.45PM</td>
+    <td rowspan="2" style="vertical-align: middle">Talk: Steganographic malware embedding in AI models</td>
+    <td rowspan="8" style="vertical-align: middle">Workshop: Artificial Intelligence in Astronomy and Physics</td>
+    <td rowspan="13" style="vertical-align: middle">Workshop: Unleashing the Power of Graph Neural Networks</td>
+  </tr>
+  <tr>
+    <td>6.45PM - 7:00PM</td>
+  </tr>
+  <tr> 
+    <td>7.00PM - 7.15PM</td>
+    <td rowspan="2" style="vertical-align: middle">Talk: Exploring the Forward-Forward Algorithm</td>
+  </tr> 
+  <tr>
+    <td>7.15PM - 7.30PM</td> 
+  </tr> 
+  <tr> 
+    <td>7.30PM - 7.45PM</td> 
+    <td style="vertical-align: middle">Break</td>
+  </tr> 
+  <tr>
+    <td>7.45PM - 8.00PM</td>
+    <td rowspan="8" style="vertical-align: middle">Workshop: Data Analysis and Visualization with Python</td>
+  </tr>
+  <tr>
+    <td>8.00PM - 8.15PM</td>
+  </tr>
+  <tr>
+    <td>8.15PM - 8.30PM</td>
+  </tr>
+  <tr>
+    <td>8.30PM - 8.45PM</td>
+    <td rowspan="5" style="vertical-align: middle">Break</td>
+  </tr>
+  <tr>
+    <td>8.45PM - 9.00PM</td>
+  </tr>
+  <tr>
+    <td>9.00PM - 9.15PM</td>
+  </tr>
+  <tr>
+    <td>9.15PM - 9.30PM</td>
+  </tr>
+  <tr>
+    <td>9.30PM - 9.45PM</td>
+  </tr>
+</table>
+
+## RSVP
+
+Interested? RSVP to stay up to date with all matters regarding the BBCS and FOSSASIA collaboration, including when sign ups open and more!
+
+## <a class="btn" href="https://go.buildingblocs.sg/fossasiarsvp"> RSVP here! </a> 

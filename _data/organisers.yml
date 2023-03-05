@@ -213,7 +213,7 @@
   img: ppl/sawzedong.jpeg
   comms:
     - Dev
-  bio: hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more
+  bio: Hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more
 - name: Tse Min Jia
   school: DHS
   github: MinJiaTse
@@ -263,7 +263,7 @@
   comms:
     - HR
     - Admin
-  bio: Year 4 student from MGS. Your average workaholic penguin and Red Dead Redemption 2 enjoyer. 
+  bio: Year 4 student from MGS. Your average workaholic penguin and Red Dead Redemption 2 enjoyer.
 - name: Jessie Chin Kit Hey
   school: HCI
   github: jcc-kh
@@ -286,7 +286,7 @@
   img: ppl/Edwin_Liew.jpg
   comms:
     - WS
-  bio: My name is Edwin and I'm one of the project managers for ACJC's Technology Council. I've been interested in computer science, in particular coding, since secondary school where I was in Infocomm and part of the EXCO as well. Currently, I am taking Physics, Further Math and Literature as my subjects and hopefully the thinking cultivated across my disciplines will help me in learning coding as my interest.
+  bio: My name is Edwin and I'm one of the project managers for ACJC's Technology Council
 - name: Justin Wang
   school: ACJC
   github: plwanejexperto
@@ -310,8 +310,7 @@
   img: ppl/Wayne_Ang.JPG
   comms:
     - Pubs
-  bio: I am a JC2 from ACJC currently. In my free time, I like to read books, listen to new music and play the guitar. I started learning coding last year and have developed a keen interest in it and would hope to pursue some tangible projects in the future.
-- name: Leow Yu Long
+  bio: I am a JC2 from ACJC currently. I like reading books, listening to new music and playing the guitar.
   school: DHS
   github: jadedrag1108
   level: JC2
@@ -327,3 +326,77 @@
   comms:
     - HR
   bio: Hi, I'm Eugene and i believe that caffeine is a miracle drug
+- name: Cheong Jun Kai Harry
+  school: DHS
+  github: Harry-cheong
+  level: JC1
+  img: ppl/harry.jpg
+  comms:
+    - Admin
+    - Dev
+    - WS
+  bio: I'm Harry. I love tinkering with tech. I love card throwing. 
+- name: Mahamantra Sivagnanam
+  school: GIIS
+  github: mahaachu
+  level: 
+  img: ppl/Mahamantra_Sivagnanam.jpeg
+  comms:
+    - Admin
+  bio: Hi! My name's Mahamantra Sivagnanam. I really enjoy programming and coming up with new ideas and innovations
+- name: Chee Justin Suwattana
+  school: DHS
+  github: Giganaer
+  level: JC1
+  img: ppl/Chee_Justin.jpg
+  comms:
+    - Admin
+  bio: Hi I'm Justin, a JC1 computing student in DHS who also likes playing guitar
+- name: Adapaka Vinita
+  school: ASRJC
+  github: vi-nita
+  level: JC1
+  img: ppl/adapaka_vinita.jpg
+  comms:
+    - HR
+  bio: I am a fast learner and am passionate about coding and programming. I also enjoy dancing.
+- name: Tang Jiaxuan
+  school: TJC
+  github: Jiaxuan06
+  level: JC1
+  img: ppl/Jiaxuan.jpg
+  comms:
+    - Admin
+  bio: Hello! I am Jiaxuan, a JC1 student from TJC annd I am a coffee addict 🤣
+- name: Clara Lee
+  school: ASRJC
+  github: Ninrolds6
+  level: JC1
+  img: ppl/Clara_Lee.jpeg
+  comms:
+    - WS
+  bio: I'm Clara from ASRJC! My CCA is badminton I take computing for A levels. I crochet and do coding in my free time
+- name: Ashley Alexster
+  school: TJC
+  github: IsoceledAsh
+  level: JC1
+  img: ppl/Ashley_Alexster.jpg
+  comms:
+    - Admin
+  bio: Hi, I'm Ashley! I have always been interested in CS stuff since I was young, and currently take Computing as a subject in JC
+- name: Kothari Kashvi Chintan
+  school: TJC
+  github: kat-fly
+  level: JC1
+  img: ppl/Kashvi_Kothari.jpg
+  comms:
+    - Admin
+  bio: I have been a member of Infocomm Club since primary school. I currently take H2 computing.
+- name: Quoid Jing-Xuan Andrel
+  school: TJC
+  github: antndrel
+  level: JC1
+  img: ppl/andrel.jpg
+  comms:
+    - Pubs
+  bio: Hello! I am Andrel from TJC 

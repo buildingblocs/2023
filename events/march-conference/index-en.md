@@ -68,7 +68,13 @@ adopted in the June Conference, we will instead be organising our very own "Hack
  </tr>
 </table>
 
-## <a class="btn" href="https://go.buildingblocs.sg/march2023signup"> Sign up here! </a> 
+---
+
+## <a class="btn" style="display: block; margin: 0 auto; text-align: center; height: 60px; width: 250px" href="https://go.buildingblocs.sg/march2023signup"> Sign up here! </a> 
+
+<p style="text-align: center">
+ <b>Update:</b> Due to overwhelming demand, workshop signups for introduction to HTML, CSS and Javascript and introduction to Data Analytics are now closed. If you're interested in receiving a notification when the workshop recording is uploaded, please fill in <a href="https://forms.gle/oWGmB6b1KhorUhkC7">this form</a>.
+</p>
 
 ---
 

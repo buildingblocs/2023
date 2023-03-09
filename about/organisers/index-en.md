@@ -24,6 +24,11 @@ lang: en
         border-top-left-radius: 5px;
         border-top-right-radius: 5px;
     }
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
     .card {
         position: relative;
         display: inline-block;
@@ -59,7 +64,7 @@ lang: en
         margin: auto;
         display: block;
         color: #3c3c3c;
-        height: 120px;
+        height: 140px;
     }
     .card .card-img-wrapper {
         position: relative;
@@ -111,7 +116,7 @@ BuildingBloCS 2023 is led by a set of ~~charismatic~~ passionate overall ICs who
 aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever before.
 
 
-<section>
+<section class="cards">
     {% for organiser in site.data.oics %}
 
     <div class="card">
@@ -149,7 +154,7 @@ aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever 
 
 Without our organizers, we wouldn't be able to organize much of BuildingBloCS, hence this serves as a _thank-you note_ to all of them for their willingness to help and make BuildingBloCS possible!
 
-<section>
+<section class="cards">
     {% for organiser in site.data.organisers %}
 
     <div class="card">

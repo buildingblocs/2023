@@ -16,6 +16,8 @@ lang: en
 BuildingBloCS is proud to be partnering FOSSASIA to present several workshops and talks, as well as our very own exhibition booth at the FOSSASIA Summit 2023. 
 </p>
 
+## <a class="btn" style="display: block; margin: 0 auto; text-align: center; height: 60px; width: 250px" href="https://go.buildingblocs.sg/fossasia2023signup"> Sign up here! </a> 
+
 ---
 
 ## Key Details
@@ -104,9 +106,3 @@ This workshop will focus on data science and how it is applicable to businesses.
     <td colspan="3" style="vertical-align: middle; text-align: center">Closing</td>
   </tr>
 </table>
-
-## RSVP
-
-Interested? RSVP to stay up to date with all matters regarding the BBCS and FOSSASIA collaboration, including when sign ups open and more!
-
-## <a class="btn" href="https://go.buildingblocs.sg/fossasiarsvp"> RSVP here! </a> 

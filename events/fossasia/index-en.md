@@ -55,7 +55,7 @@ This workshop will focus on data science and how it is applicable to businesses.
   </tr>
   <tr>
     <td>6.30PM - 6.45PM</td>
-    <td rowspan="2" style="vertical-align: middle">Talk: Steganographic malware embedding in AI models</td>
+    <td rowspan="8" style="vertical-align: middle">Workshop: Data Analysis and Visualization with Python</td>
     <td rowspan="8" style="vertical-align: middle">Workshop: Artificial Intelligence in Astronomy and Physics</td>
     <td rowspan="13" style="vertical-align: middle">Workshop: Unleashing the Power of Graph Neural Networks</td>
   </tr>
@@ -64,18 +64,15 @@ This workshop will focus on data science and how it is applicable to businesses.
   </tr>
   <tr> 
     <td>7.00PM - 7.15PM</td>
-    <td rowspan="2" style="vertical-align: middle">Talk: Exploring the Forward-Forward Algorithm</td>
   </tr> 
   <tr>
     <td>7.15PM - 7.30PM</td> 
   </tr> 
   <tr> 
     <td>7.30PM - 7.45PM</td> 
-    <td style="vertical-align: middle">Break</td>
   </tr> 
   <tr>
     <td>7.45PM - 8.00PM</td>
-    <td rowspan="8" style="vertical-align: middle">Workshop: Data Analysis and Visualization with Python</td>
   </tr>
   <tr>
     <td>8.00PM - 8.15PM</td>
@@ -85,19 +82,26 @@ This workshop will focus on data science and how it is applicable to businesses.
   </tr>
   <tr>
     <td>8.30PM - 8.45PM</td>
-    <td rowspan="5" style="vertical-align: middle">Break</td>
   </tr>
   <tr>
     <td>8.45PM - 9.00PM</td>
+    <td rowspan="2" style="vertical-align: middle">Talk: Steganographic Malware Embedding in AI Models</td>
+    <td rowspan="2" style="vertical-align: middle">Talk: Exploring the Forward-Forward Algorithm</td>
   </tr>
   <tr>
     <td>9.00PM - 9.15PM</td>
   </tr>
   <tr>
     <td>9.15PM - 9.30PM</td>
+    <td rowspan="2" style="vertical-align: middle">Talk: How we hosted the March Conference</td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>9.30PM - 9.45PM</td>
+  </tr>
+  <tr>
+    <td>9.45PM - 10.00PM</td>
+    <td colspan="3" style="vertical-align: middle; text-align: center">Closing</td>
   </tr>
 </table>
 

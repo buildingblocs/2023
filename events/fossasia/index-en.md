@@ -51,7 +51,7 @@ This workshop will focus on data science and how it is applicable to businesses.
 <table>
   <tr>
     <th>Time</th>
-    <th>Main Event Room</th>
+    <th>Event Hall 2-2</th>
     <th>Training Room 2-1</th>
     <th>Training Room 2-2</th>
   </tr>

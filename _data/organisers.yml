@@ -311,6 +311,7 @@
   comms:
     - Pubs
   bio: I am a JC2 from ACJC currently. I like reading books, listening to new music and playing the guitar.
+- name: Leow Yu Leong
   school: DHS
   github: jadedrag1108
   level: JC2
@@ -400,3 +401,84 @@
   comms:
     - Pubs
   bio: Hello! I am Andrel from TJC 
+- name: Celine Natalie Wongso Lesmono
+  school: NIL
+  github: celnat312
+  level: NIL
+  img: ppl/celine_natalie.jpeg
+  comms:
+    - Pubs
+    - QA
+  bio: I took H2 computing when I was in JC and I joined BBCS in 2021 and 2022!
+- name: Jerome Palayoor
+  school: ASRJC
+  github: jeromepalayoor
+  level: JC1
+  img: ppl/Jerome_Palayoor.png
+  comms:
+    - Dev
+  bio: I love math and coding and recently picked up cyber security.
+- name: Jovn Setiawan Jaya
+  school: TJC
+  github: Benjjji
+  level: JC1
+  img: ppl/Jovn.jpg
+  comms:
+    - Pubs
+  bio: Hi, I'm Jovn. ✨I am an average human being✨
+- name: Lim Jack
+  school: TJC
+  github: jack-0000000
+  level: JC1
+  img: ppl/Lim_Jack.jpg
+  comms:
+    - Admin
+  bio: I am very passionate about science and technology. I am keen in learning more about computer science and developing my own programmes. 
+- name: Asha Solomon
+  school: TJC
+  github: Ash3926
+  level: JC1
+  img: ppl/Asha_Solomon.jpg
+  comms:
+    - Admin
+  bio: I'm Asha from TJC, I like running and crafts. Favorite subjects(at O's) are Maths and Physics :)
+- name: Chua Tze Xuan, Sophia 
+  school: CGSS
+  github: TAUVX
+  level: Sec4
+  img: ppl/Sophia_Chua.JPG
+  comms:
+    - Pubs
+  bio: I am interested in the Fine Arts and like to make art when inspiration strikes me. 
+- name: Dylan Alden Kusbiyantoro
+  school: VJC
+  github: ZestyP4nda
+  level: JC1
+  img: ppl/Dylan_Alden_Kusbiyantoro.jpg
+  comms:
+    - Dev
+  bio: I’m a JC student passionate in web development, artificial intelligence, game design, and robotics
+- name: Sanke Mahit 
+  school: YIJC
+  github: AppleGesus
+  level: JC2
+  img: ppl/Sanke_Mahit.jpg
+  comms:
+    - QA
+  bio: My name is Sanke Mahit and I am in JC2 this year! I was a member in last year's buildingblocs as well
+- name: Tan Junheng
+  school: NUSH
+  github: azazazo
+  level: Sec4
+  img: ppl/Tan_Junheng.png
+  comms:
+    - Dev
+  bio: biggest blåhaj fan🦈❤️❤️i like crypto(graphy) and sometimes play ctfs
+- name: Teh Kim Wee
+  school: ASRJC
+  github: DangerousPotential
+  level: JC2
+  img: ppl/Teh_Kim_Wee.jpg
+  comms:
+    - QA
+  bio: I'm Kim Wee, currently studying in ASRJC. Python is my main programming language

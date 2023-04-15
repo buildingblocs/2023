@@ -12,7 +12,8 @@ lang: en
   <img style="margin: auto;" src="/2023/assets/img/BBCS X FOSSAsia.png" alt="drawing" width="300"/>
 </p>
 
-<p style="text-align: center"> The FOSSASIA Summit 2023is a hybrid event conducted both online and in-person, part of a series of FOSSASIA events held since 2009. Participate to connect with businesses, developers, and tech communities from around the world and learn about the latest developments in open source! 
+<p style="text-align: center"> The FOSSASIA Summit 2023 is a hybrid event 
+conducted both online and in-person, part of a series of FOSSASIA events held since 2009. Participate to connect with businesses, developers, and tech communities from around the world and learn about the latest developments in open source! 
 BuildingBloCS is proud to be partnering FOSSASIA to present several workshops and talks, as well as our very own exhibition booth at the FOSSASIA Summit 2023. 
 </p>
 

@@ -27,7 +27,7 @@ Our flagship event of the year, the June Conference will be held in around the f
 The March Conference aims to foster an interest in programming in general. We did this in March 2023 by introducing participants to various programming languages, such as Python and JavaScript, and also hosting our own Python-based beginner gamified competition! Learn more <a href="{{ site.baseurl }}/events/march-conference">here</a>!
 
 ## FOSSASIA OpenTechSummit Singapore
-We held a series of workshops and connected with industry professionals at FOSSASIA 2023, held from April 13 to April 15 this year! Learn more <a href="fossasia">here</a>. 
+We held a series of workshops and connected with industry professionals at FOSSASIA 2023, held from April 13 to April 15 this year! Learn more <a href="{{ site.baseurl }}/events/fossasia">here</a>. 
 
 
 ## Organising Schools

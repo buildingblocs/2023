@@ -50,7 +50,7 @@ This would be a full-blown hackathon, where you will be given a prompt and encou
 
 ## Schedule
 > All timings are in SGT (GMT +8:00)!
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWj7F_US-g7GEK8dnUXNr1wjEbrX534OzKxjAlvFAhP3VTv-sCfQEp82MdDpxfgSyAHILUJ6r3dPZ4/pubhtml?widget=true&amp;headers=false"></iframe>
+Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWj7F_US-g7GEK8dnUXNr1wjEbrX534OzKxjAlvFAhP3VTv-sCfQEp82MdDpxfgSyAHILUJ6r3dPZ4/pubhtml?widget=true&amp;headers=false">here</a>.
 
 ## <a class="btn" href="https://go.buildingblocs.sg/june"> Sign up here! </a> 
 

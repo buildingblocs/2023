@@ -55,6 +55,8 @@ Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1
 ## <a class="btn" href="https://go.buildingblocs.sg/june"> Sign up here! </a> 
 
 ## FAQ
+<strong>Must I be present the entire time for the June Conference?</strong>
+<br>You may be excused for one day of the conference if you have other commitments / events, although you are encouraged to come on all days since the workshops progressively build on your knowledge!
 
 <strong>Is there an online rendition of the conference?</strong>
 <br>We seek for optimal engagement during this year's conference and therefore it will be fully physical, not online.
@@ -66,7 +68,7 @@ Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1
 <br>The prize giving ceremony will be conducted on-site on Day 3, 5th June.
 
 <strong>What are the prizes?</strong>
-<br>We cannot reveal anything at this point, but we are coordinating them with our sponsors: Meta, CYS and AISG!
+<br>We cannot reveal anything at this point, but we are coordinating a large pool of prizes with our sponsor, Meta! All we can guarantee is that a large number of people will walk away with amazing prizes!
 
 <strong>Must I go for all workshops / talks?</strong>
 <br>Yes, all tracks require certain skills which will be taught progressively in the workshops! 
@@ -74,5 +76,3 @@ Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1
 <strong>What if something pops up and I can’t make it?</strong>
 <br>Email us at <a href="mailto:buildingblocs@computing.sg">buildingblocs@computing.sg</a> or approach us on <a href="https://discord.gg/VSHyrbsJFs">Discord</a> in any appropriate channels and we will update your signup status accordingly.
 
-<strong>Must I be present the entire time for the June Conference?</strong>
-<br>You are highly encouraged to participate for the full duration of the June Conference. Should you have alternative commitments such as SMO, state them in the form while signing up.

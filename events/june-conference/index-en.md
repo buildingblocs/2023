@@ -76,3 +76,5 @@ Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1
 <strong>What if something pops up and I can’t make it?</strong>
 <br>Email us at <a href="mailto:buildingblocs@computing.sg">buildingblocs@computing.sg</a> or approach us on <a href="https://discord.gg/VSHyrbsJFs">Discord</a> in any appropriate channels and we will update your signup status accordingly.
 
+<strong>How will the hackathon group be allocated?</strong>
+<br>We will be allocating them randomly, but we'll make sure that there's at least there's at least one person from your school!</br>

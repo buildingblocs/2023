@@ -78,3 +78,6 @@ Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1
 
 <strong>How will the hackathon group be allocated?</strong>
 <br>We will be allocating them randomly, but we'll make sure that there's at least there's at least one person from your school!
+
+<strong>Is the event free?</strong>
+<br>Yep, thanks to our generous sponsors, it's completely free!

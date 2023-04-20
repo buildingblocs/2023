@@ -482,3 +482,19 @@
   comms:
     - QA
   bio: I'm Kim Wee, currently studying in ASRJC. Python is my main programming language
+- name: Zeyu Yao (Peter)
+  school: SAIS
+  github: cytronicoder
+  level: Sec 2
+  img: ppl/Peter.jpg
+  comms:
+    - Dev
+  bio: I'm a student developer currently studying in Singapore.
+- name: Raymond Goo
+  school: Ngee Ann Poly
+  github: provsalt
+  level: Poly 1
+  img: ppl/Raymond_goo.jpg
+  comms:
+    - Dev
+  bio: I like doing things and stuff software related. 

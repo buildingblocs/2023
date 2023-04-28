@@ -29,7 +29,7 @@ _Meant for people with no coding experience_
 
 The final competition would be an ideathon, where we will provide you with a randomly selected dataset, and you are to pitch a "start-up" idea with one or more of these datasets.
 
-### Standard Track
+### Intermediate Track
 _Meant for people with coding experience_
 - Refresh AI concepts and how to process data using NumPy, Pandas on Day 1
 - How to use Scikit-Learn to train models on Day 1

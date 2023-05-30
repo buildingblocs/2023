@@ -100,7 +100,7 @@
   level: JC2
   github: waffleSheep
   img: ppl/zayan.jpg
-  bio: JC2 student from NUSH. PhD in rizzology from the Pete Davidson school of chasing tail.
+  bio: JC2 student from NUSH. PhD in rizzology from the Pete Davidson school of chasing tail.
 - name: Mayukh Das
   school: NUSH
   comms:
@@ -155,7 +155,8 @@
     - Games
   level: Sec 4
   github: Dhanvine321
-  img: ppl/dhanvine.jpeg
+  bio: Hi I'm Dhanvine, a Sec 4 student from TJC. I like to code AI and learn new things everyday!
+  img: ppl/dhanvine.jpg
 - name: Cher Jin En
   school: TJC
   comms:
@@ -401,7 +402,7 @@
   comms:
     - Pubs
   bio: Hello! I am Andrel from TJC 
-- name: Celine Natalie Wongso Lesmono
+- name: Celine Natalie Wongso
   school: NIL
   github: celnat312
   level: NIL
@@ -482,3 +483,133 @@
   comms:
     - QA
   bio: I'm Kim Wee, currently studying in ASRJC. Python is my main programming language
+- name: Zeyu Yao (Peter)
+  school: SAIS
+  github: cytronicoder
+  level: Sec 2
+  img: ppl/Peter.jpeg
+  comms:
+    - Dev
+  bio: I'm a student developer currently studying in Singapore.
+- name: Raymond Goo
+  school: Ngee Ann Poly
+  github: provsalt
+  level: Poly 1
+  img: ppl/Raymond_goo.jpg
+  comms:
+    - Dev
+  bio: I like doing things and stuff software related.
+- name: Zhang Xiyuan
+  school: VJC
+  github: xiyuan1avery
+  level: JC 2
+  img: ppl/zhang_xiyuan.jpg
+  comms:
+    - QA
+  bio: Hi im Xiyuan from VJC!!! I luv coffee, running, math & programming. Curious&Learn&Enjoy@BBCS2023
+- name: Ma Jinghong
+  school: HCI
+  github: eli5535
+  level: JC 2
+  img: ppl/jinghong.jpg
+  comms:
+    - Dev
+  bio: I am a J2 student from HCI, and take PCME. I hope to help out for this event and learn relevant skills :)
+- name: Anangore Seetharaman Ghayathri
+  school: GIIS
+  github: Gau567
+  level: IB Year 1
+  img: 
+  comms:
+    - Adshop
+    - QA
+  bio: Passionate about AI and CS, aims to achieve in the industry. Enjoys crime/thriller books.
+- name: Anushka Sharma
+  school: GIIS
+  github: anushkaaaa5532
+  level: JC1
+  img: 
+  comms:
+    - Dev
+  bio: Anushka Sharma, 17, Global Indian Intl. School Punggol. Likes reading, cycling, drawing, dancing, adventure.
+- name: Varshini
+  school: GIIS
+  github: varshuarul
+  level: IB Year 1
+  img: 
+  comms:
+    - Dev
+  bio: Hi, my name is varshini. I am currently doing ib year 1 in an international school.
+- name: Nikitha Sivashanmuganathan
+  school: GIIS SMART CAMPUS Punggol 
+  github: nikithasivash
+  level: IB Year 1
+  img: 
+  comms:
+    - Adshop
+    - QA
+  bio: Hi, my name is Nikitha. Im currently in IB year 1. My ambition is to become a software engineer so I believe that this would help me out.
+- name: Tan Swee Kang
+  school: River Valley High School
+  github: sotong1337
+  level: JC2
+  img: 
+  comms:
+    - HR
+  bio: H2 computing student does CTF, competitive programming, competitions, and NCC admin in my school.
+- name: Ong Miao Ying, Clara
+  school: Dunman High School
+  github: claraongmy 
+  level: JC1
+  img: 
+  comms:
+    - Pubs
+  bio: hi i'm clara and i gained interest in cs just a few months ago! im a newbie compared to everyone else HAHA but i'll try my best 👍
+- name: Pratibha Rao
+  school: GIIS Punggol Smart Campus
+  github: Prxtibha
+  level: JC1
+  img: 
+  comms:
+    - Pubs
+  bio: Hi, I am Pratibha and I study in IBYR 1 in GIIS
+- name: Clarisse Ng
+  school: TJC
+  github: Cherrymeelk
+  level: JC1
+  img: 
+  comms:
+    - Pubs
+  bio: A fun, enthusiastic person who likes to meet new people and is rather extroverted.
+- name: Yau Le Han
+  school: CGSS
+  github: lh00000
+  level: Sec4
+  img: 
+  comms:
+    - Pubs
+  bio: Sec 4 student exploring CS passion, with no experience, eager to learn and gain skills.
+- name: Rachel Lim
+  school: 
+  github: Sicario09
+  level: JC2
+  img: 
+  comms:
+    - Dev
+  bio: I'm a Seth hater
+- name: Nguyen Ngoc Quyet (Harry)
+  school: VJC
+  github: thatsmycroissant
+  level: JC1
+  img: ppl\Nguyen Ngoc Quyet (Harry).jpg
+  comms:
+    - Dev
+  bio:  Competitive programmer, silver medals, Python, C++, cybersecurity aspirant.
+- name: Raj Harsh
+  school: YIJC
+  github: Hars-raj
+  level: JC2
+  img: 
+  comms:
+    - Dev
+  bio: I am a JC2 student at YIJC, I take H2 computing and have an interest in programming and AI

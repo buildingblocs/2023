@@ -1,0 +1,87 @@
+I"n<h1 id="june-conference">June Conference</h1>
+
+<p style="text-align: center">The June Conference is our flagship computing event. This year, we are holding over 17 workshops, 5 talks and 3 hackathons over 3 tracks to cater to various skill levels!</p>
+
+<hr />
+<h2 id="key-details">Key details</h2>
+<ul>
+  <li>Dates: 29th, 30th May and 5th Jun</li>
+  <li>Venue: NUS School of Computing</li>
+  <li>Email contact for queries: <a href="mailto:hello@buildingblocs.sg">hello@buildingblocs.sg</a></li>
+</ul>
+
+<p>BuildingBloCS’s annual flagship conference will be happening on <strong>29th, 30th May and 5th Jun</strong> at the NUS School of Computing. This year’s conference will be on <strong>Artificial Intelligence</strong>.</p>
+<h2 id="-sign-up-here-"><a class="btn" href="https://go.buildingblocs.sg/june"> Sign up here! </a></h2>
+<hr />
+
+<h2 id="tracks">Tracks</h2>
+<h3 id="beginner-track">Beginner Track</h3>
+<p><em>Meant for people with no coding experience</em></p>
+<ul>
+  <li>Basic concepts on AI (teachable machine + ML playground) on Day 1</li>
+  <li>Introduce Design Thinking and Figma on Day 1</li>
+  <li>Python Workshops on Days 1 and 2</li>
+  <li>Ease into AI with a very simple tool (PyCaret on Day 2)</li>
+</ul>
+
+<p>The final competition would be an ideathon, where we will provide you with a randomly selected dataset, and you are to pitch a “start-up” idea with one or more of these datasets.</p>
+
+<h3 id="intermediate-track">Intermediate Track</h3>
+<p><em>Meant for people with coding experience</em></p>
+<ul>
+  <li>Refresh AI concepts and how to process data using NumPy, Pandas on Day 1</li>
+  <li>How to use Scikit-Learn to train models on Day 1</li>
+  <li>How to use Tensorflow to train Neural Networks and CNNs on Day 2</li>
+  <li>More interesting Computer Vision techniques using OpenCV on Day 2</li>
+</ul>
+
+<p>Your final competition will be split into two different tasks: training and tuning a model on a dataset provided by us, and pitching a product idea using the said dataset.</p>
+
+<h3 id="advanced-track">Advanced Track</h3>
+<p><em>Meant for people who have done AI before</em></p>
+<ul>
+  <li>Modern AI (eg Transformers and ViTs) on Day 1</li>
+  <li>Git and GitHub for Version Control on Day 1</li>
+  <li>Integrating AI into Flask on Day 1</li>
+  <li>Graph Neural Networks on Day 2</li>
+  <li>MLOps on Day 2</li>
+</ul>
+
+<p>This would be a full-blown hackathon, where you will be given a prompt and encouraged to develop products based around that prompt.</p>
+
+<h2 id="schedule">Schedule</h2>
+<blockquote>
+  <p>All timings are in SGT (GMT +8:00)!
+Check out the schedule <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWj7F_US-g7GEK8dnUXNr1wjEbrX534OzKxjAlvFAhP3VTv-sCfQEp82MdDpxfgSyAHILUJ6r3dPZ4/pubhtml?widget=true&amp;headers=false">here</a>.</p>
+</blockquote>
+
+<h2 id="-sign-up-here--1"><a class="btn" href="https://go.buildingblocs.sg/june"> Sign up here! </a></h2>
+
+<h2 id="faq">FAQ</h2>
+<p><strong>Must I be present the entire time for the June Conference?</strong>
+<br />You may be excused for one day of the conference if you have other commitments / events, although you are encouraged to come on all days since the workshops progressively build on your knowledge!</p>
+
+<p><strong>Is there an online rendition of the conference?</strong>
+<br />We seek for optimal engagement during this year’s conference and therefore it will be fully physical, not online.</p>
+
+<p><strong>Why should I sign up?</strong>
+<br />You can learn a whole lot of new skills and it’ll be really fun!</p>
+
+<p><strong>How will I receive my prizes?</strong>
+<br />The prize giving ceremony will be conducted on-site on Day 3, 5th June.</p>
+
+<p><strong>What are the prizes?</strong>
+<br />We cannot reveal anything at this point, but we are coordinating a large pool of prizes with our sponsor, Meta! All we can guarantee is that a large number of people will walk away with amazing prizes!</p>
+
+<p><strong>Must I go for all workshops / talks?</strong>
+<br />Yes, all tracks require certain skills which will be taught progressively in the workshops!</p>
+
+<p><strong>What if something pops up and I can’t make it?</strong>
+<br />Email us at <a href="mailto:buildingblocs@computing.sg">buildingblocs@computing.sg</a> or approach us on <a href="https://discord.gg/VSHyrbsJFs">Discord</a> in any appropriate channels and we will update your signup status accordingly.</p>
+
+<p><strong>How will the hackathon group be allocated?</strong>
+<br />We will be allocating them randomly, but we’ll make sure that there’s at least there’s at least one person from your school!</p>
+
+<p><strong>Is the event free?</strong>
+<br />Yep, thanks to our generous sponsors, it’s completely free!</p>
+:ET

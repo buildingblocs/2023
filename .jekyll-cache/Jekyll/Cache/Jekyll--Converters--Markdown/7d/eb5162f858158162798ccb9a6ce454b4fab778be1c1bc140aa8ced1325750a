@@ -1,0 +1,83 @@
+I"L<section class="jumbo">
+    <div class="main-div">
+        <h1>BuildingBloCS</h1>
+        <h1><span class="huge">2023</span></h1>
+        <!-- <h4>Thursday 2 June - Saturday 4 June</h4> -->
+        <!-- <h4>NUS School of Computing / Online</h4> -->
+	    <!-- <h4><a class="btn" href="/2023/events/june-conference/">Find Out More!</a></h4> -->
+	    <h3>Our June Conference is out!</h3>
+    </div>
+</section>
+<p><br /><br /><br /></p>
+
+<p>This year, our conference is divided into three <strong>different</strong> events, focused on <strong>different</strong> themes altogether. These are the June, March and FOSSASIA Conferences!</p>
+
+<h2 id="the-june-conference">The June Conference</h2>
+<p>Our flagship event of the year, the June Conference will be held in around the first week of June, with a central theme: <strong>Artificial Intelligence (AI)</strong>. We’re hosting over 17 workshops, 5 talks and 3 hackathons for programmers of various skill levels from beginner to advanced, and we’re also proud to partner with Meta, CYS and AISG! <a href="/2023/events/june-conference">Learn more</a> and <a href="https://go.buildingblocs.sg/june">sign up</a> now!</p>
+
+<h2 id="the-march-conference">The March Conference</h2>
+<p>The March Conference aims to foster an interest in programming in general. We did this in March 2023 by introducing participants to various programming languages, such as Python and JavaScript, and also hosting our own Python-based beginner gamified competition! Learn more <a href="/2023/events/march-conference">here</a>!</p>
+
+<h2 id="fossasia-opentechsummit-singapore">FOSSASIA OpenTechSummit Singapore</h2>
+<p>We held a series of workshops and connected with industry professionals at FOSSASIA 2023, held from April 13 to April 15 this year! Learn more <a href="/2023/events/fossasia">here</a>.</p>
+
+<h2 id="organising-schools">Organising Schools</h2>
+
+<section class="organisers">
+    
+    <a href="https://dunmanhigh.moe.edu.sg/">
+        <img src="/2023/assets/img/sch/dhs.png" title="Dunman High School" />
+    </a>
+    
+    <a href="https://www.nushigh.edu.sg/">
+        <img src="/2023/assets/img/sch/nushs.png" title="NUS High School" />
+    </a>
+    
+    <a href="https://www.temasekjc.moe.edu.sg/">
+        <img src="/2023/assets/img/sch/tjc.png" title="Temasek Junior College" />
+    </a>
+    
+    <a href="http://www.ri.edu.sg/">
+        <img src="/2023/assets/img/sch/ri.png" title="Raffles Institution" />
+    </a>
+    
+    <a href="https://yijc.moe.edu.sg/">
+        <img src="/2023/assets/img/sch/yijc.png" title="Yishun Innova Junior College" />
+    </a>
+    
+    <a href="https://www.sp.edu.sg/">
+        <img src="/2023/assets/img/sch/sp.png" title="Singapore Polytechnic" />
+    </a>
+    
+</section>
+
+<h2 id="partners">Partners</h2>
+
+<section class="organisers">
+    
+    <a href="https://www.aisingapore.org/">
+        <img src="/2023/assets/img/partner/aisingapore.png" title="AI Singapore" />
+    </a>
+    
+    <a href="https://www.cyberyouth.sg/">
+        <img src="/2023/assets/img/partner/cys.png" title="Cyber Youth Singapore" />
+    </a>
+    
+    <a href="https://www.moe.gov.sg/">
+        <img src="/2023/assets/img/partner/moe.png" title="Ministry of Education, Singapore" />
+    </a>
+    
+    <a href="https://www.comp.nus.edu.sg/">
+        <img src="/2023/assets/img/partner/nussoc.png" title="NUS School of Computing" />
+    </a>
+    
+    <a href="https://simcc.org">
+        <img src="/2023/assets/img/partner/simcc.png" title="SIMCC" />
+    </a>
+    
+    <a href="https://www.infosec-city.com/">
+        <img src="/2023/assets/img/partner/sincon.png" title="SINCON" />
+    </a>
+    
+</section>
+:ET

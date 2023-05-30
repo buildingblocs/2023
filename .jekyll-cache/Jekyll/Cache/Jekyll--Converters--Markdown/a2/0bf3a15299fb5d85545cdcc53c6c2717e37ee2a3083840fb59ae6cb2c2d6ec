@@ -1,0 +1,2367 @@
+I"vW<style>
+    h1, div, p {
+        margin: 0px;
+        padding: 0px;
+    }
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+    .cover{
+        height: 120px;
+        width: 100%;
+        background: #FF9900;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    .card {
+        position: relative;
+        display: inline-block;
+        background: #ffffff;
+        border-radius: 5px;
+        box-shadow:  0 12px 13px rgba(0,0,0,0.16), 0 12px 13px rgba(0,0,0,0.16);
+        text-align: center;
+        padding: 20px;
+        margin: 5px;
+        padding-top: 5px;
+        transition: all 0.5s;
+    }
+    .card .fa-github {
+        position: absolute;
+        color: #646464;
+        font-size: 20px;
+        top: 10px;
+        right: 10px;
+    }
+    .card .card-title {
+        color: #434343;
+        margin-bottom: -8px;
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .card .card-responsename {
+        margin-bottom: 20px;
+        color: #797979;
+    }
+    .card .card-desc {
+        font-weight: 500;
+        width: 240px;
+        margin: auto;
+        display: block;
+        color: #3c3c3c;
+        height: 120px;
+    }
+    .card .card-img-wrapper {
+        position: relative;
+        height: 160px;
+        width: 160px;
+        margin: 10px auto;
+        margin-bottom: 20px;
+    }
+    .card .card-img-wrapper img {
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+    }
+    .card .card-footer {
+        margin-top: 40px;
+    }
+    .card .card-footer .footer-box {
+        position: relative;
+        border-top: 2px solid #FF9900;
+        box-shadow: 0 3px 6px -1px rgb(0 0 0 / 26%), 0 2px 4px -1px rgb(0 0 0 / 6%);
+        border-radius: 5px;
+        margin: 0 auto;
+        padding: 10px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .card .card-footer .footer-box .box-wrapper {
+        position: relative;
+    }
+    .card .card-footer .footer-box .box-wrapper .count {
+        font-family: 'consolas'
+        color: #434343;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .card .card-footer .footer-box .box-wrapper .box-text {
+        font-size: 12px;
+        font-weight: 600;
+        color: #00000085;
+        letter-spacing: 0.5px;
+    }
+</style>
+
+<h1 id="our-team">Our Team</h1>
+
+<h2 style="text-align:left;">Our OICs</h2>
+
+<p>BuildingBloCS 2023 is led by a set of <del>charismatic</del> passionate overall ICs who overlook various departments within the organisation. Having worked together on organising BuildingBloCS 2022 last year, the organisers
+aim to help make BuildingBloCS 2023 even bigger and more far-reaching than ever before.</p>
+
+<section>
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/yikting.png" width="400px" />
+                </div>
+                <h1 class="card-title">Lam Yik Ting</h1>
+                <div class="card-responsename"><a href="https://github.com/oneytlam" target="_blank" rel="noopener">@oneytlam</a></div>
+                
+                    <p class="card-desc">YT here - explorer of AI, Web Dev and Cybersec. If I'm not listening to music, I'm probably on a BuildingBloCS call. :&gt;</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Games</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/leqi.png" width="400px" />
+                </div>
+                <h1 class="card-title">Yau Le Qi</h1>
+                <div class="card-responsename"><a href="https://github.com/teraSurfer40141" target="_blank" rel="noopener">@teraSurfer40141</a></div>
+                
+                    <p class="card-desc">Hi, I'm Le Qi, a JC2 student from TJC. I like all things computers 😎.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/prannay.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Prannaya Gupta</h1>
+                <div class="card-responsename"><a href="https://github.com/ThePyProgrammer" target="_blank" rel="noopener">@ThePyProgrammer</a></div>
+                
+                    <p class="card-desc">Hi I'm Prannaya, a JC2 Student at NUSH and I like training AI, developing software and golfing the hell out of some code 🙂.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+</section>
+
+<h2 style="text-align:left;">Our Organisers</h2>
+
+<p>Without our organizers, we wouldn’t be able to organize much of BuildingBloCS, hence this serves as a <em>thank-you note</em> to all of them for their willingness to help and make BuildingBloCS possible!</p>
+
+<section>
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/seth.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Seth Olav Yong</h1>
+                <div class="card-responsename"><a href="https://github.com/idkSeth" target="_blank" rel="noopener">@idkSeth</a></div>
+                
+                    <p class="card-desc">Poly 1 Student at SP</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/elston.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Elston Tan</h1>
+                <div class="card-responsename"><a href="https://github.com/Elstuhn" target="_blank" rel="noopener">@Elstuhn</a></div>
+                
+                    <p class="card-desc">Hello, I'm Elston. I love learning and playing around with AI, my favourite game is Sekiro.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/ashwin.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Ashwin Lokesh</h1>
+                <div class="card-responsename"><a href="https://github.com/electron13" target="_blank" rel="noopener">@electron13</a></div>
+                
+                    <p class="card-desc">JC2 Student at YIJC</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/jed.png" width="400px" />
+                </div>
+                <h1 class="card-title">Jed Lim</h1>
+                <div class="card-responsename"><a href="https://github.com/jedlimlx" target="_blank" rel="noopener">@jedlimlx</a></div>
+                
+                    <p class="card-desc">Hi I'm Jed, a JC2 student from NUSH who is passionate about AI and Physics (particularly Fluid Dynamics).</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/kabir.png" width="400px" />
+                </div>
+                <h1 class="card-title">Kabir Jain</h1>
+                <div class="card-responsename"><a href="https://github.com/ka-bear" target="_blank" rel="noopener">@ka-bear</a></div>
+                
+                    <p class="card-desc">Hi I'm Kabir, a JC1 student from NUSH. I love Physics, and especially AI.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/mahir.png" width="400px" />
+                </div>
+                <h1 class="card-title">Mahir Shah</h1>
+                <div class="card-responsename"><a href="https://github.com/RottenLemons" target="_blank" rel="noopener">@RottenLemons</a></div>
+                
+                    <p class="card-desc">NUSH student who likes CTFs, AI and C++. Games and dies in Physics sometimes.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/cervon.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Cervon Wong</h1>
+                <div class="card-responsename"><a href="https://github.com/cervonwong" target="_blank" rel="noopener">@cervonwong</a></div>
+                
+                    <p class="card-desc">Hi, I'm Cervon, JC2 student from NUSH! AI, Robotics and Linguistics nerd 😎</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/kaiwen.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Khoo Kai Wen</h1>
+                <div class="card-responsename"><a href="https://github.com/deadly-nightshade" target="_blank" rel="noopener">@deadly-nightshade</a></div>
+                
+                    <p class="card-desc">JC1 Student at NUSH</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/yuanxi.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Yap Yuan Xi</h1>
+                <div class="card-responsename"><a href="https://github.com/Haloen" target="_blank" rel="noopener">@Halogen</a></div>
+                
+                    <p class="card-desc">Hi, I'm Yuan Xi and I'm a JC2 student in NUSH. I like CTFing, IOing and Software Development.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/wenkai.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Liu Wenkai</h1>
+                <div class="card-responsename"><a href="https://github.com/squi-ddy" target="_blank" rel="noopener">@squi-ddy</a></div>
+                
+                    <p class="card-desc">JC1 Student at NUSH</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Games</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/zayan.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Zayan Karimi</h1>
+                <div class="card-responsename"><a href="https://github.com/waffleSheep" target="_blank" rel="noopener">@waffleSheep</a></div>
+                
+                    <p class="card-desc">JC2 student from NUSH. PhD in rizzology from the Pete Davidson school of chasing tail.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/mayukh.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Mayukh Das</h1>
+                <div class="card-responsename"><a href="https://github.com/jeffilluminati" target="_blank" rel="noopener">@jeffilluminati</a></div>
+                
+                    <p class="card-desc">JC2 Student at NUSH</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Games</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/vishal.png" width="400px" />
+                </div>
+                <h1 class="card-title">Kannan Vishal</h1>
+                <div class="card-responsename"><a href="https://github.com/delargement" target="_blank" rel="noopener">@delargement</a></div>
+                
+                    <p class="card-desc">Hey, I'm a sixth year from NUSH who likes post-punk, post-industrial and post-hardcore.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/zerui.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Wang Zerui</h1>
+                <div class="card-responsename"><a href="https://github.com/Wang-Zerui" target="_blank" rel="noopener">@Wang-Zerui</a></div>
+                
+                    <p class="card-desc">Hi I'm Zerui from NUSH, I like CTFs and blahajs!</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/renoir.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Renoir Tan</h1>
+                <div class="card-responsename"><a href="https://github.com/RenoirTan" target="_blank" rel="noopener">@RenoirTan</a></div>
+                
+                    <p class="card-desc">JC2 Student at RI</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Games</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/ishneet.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Ishneet Singh</h1>
+                <div class="card-responsename"><a href="https://github.com/Ishneet0710" target="_blank" rel="noopener">@Ishneet0710</a></div>
+                
+                    <p class="card-desc">JC2 Student at TJC</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/dhanvine.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Dhanvine Rameshkumar</h1>
+                <div class="card-responsename"><a href="https://github.com/Dhanvine321" target="_blank" rel="noopener">@Dhanvine321</a></div>
+                
+                    <p class="card-desc">Hi I'm Dhanvine, a Sec 4 student from TJC. I like to code AI and learn new things everyday!</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Games</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/cherjinen.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Cher Jin En</h1>
+                <div class="card-responsename"><a href="https://github.com/shindeux" target="_blank" rel="noopener">@shindeux</a></div>
+                
+                    <p class="card-desc">Hi, I listen to MAMAMOO and play Solitaire for fun</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/bryant.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Bryant Shi</h1>
+                <div class="card-responsename"><a href="https://github.com/flame-staff" target="_blank" rel="noopener">@flame-staff</a></div>
+                
+                    <p class="card-desc">Yo My name is Bryant. I am a fellow CS student and heavily enjoy games</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/isaac.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Isaac Kok</h1>
+                <div class="card-responsename"><a href="https://github.com/Kweice" target="_blank" rel="noopener">@Kweice</a></div>
+                
+                    <p class="card-desc">Hi I'm Isaac. I do card tricks, listen to mandopop and my favourite artist is Joker Xue.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Games</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/ian.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Ian Goh</h1>
+                <div class="card-responsename"><a href="https://github.com/TheRoundRoads" target="_blank" rel="noopener">@TheRoundRoads</a></div>
+                
+                    <p class="card-desc">Hi I'm Ian Goh! I'm currently a JC2 computing student studying in DHS. I also enjoy watching anime!</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/yiwang.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Heng Yi Wang</h1>
+                <div class="card-responsename"><a href="https://github.com/dhshengyiwang" target="_blank" rel="noopener">@dhshengyiwang</a></div>
+                
+                    <p class="card-desc">Yi Wang is a JC2 student studying at Dunman High School. His favourite field in Computer Science is Artificial Intelligence.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/maweiyi.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Ma Weiyi</h1>
+                <div class="card-responsename"><a href="https://github.com/fwyr" target="_blank" rel="noopener">@fwyr</a></div>
+                
+                    <p class="card-desc">Hello! I'm Weiyi, a DHS student who just happens to like computers.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/sawzedong.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Saw Ze Dong</h1>
+                <div class="card-responsename"><a href="https://github.com/sawzedong" target="_blank" rel="noopener">@sawzedong</a></div>
+                
+                    <p class="card-desc">Hi, i'm a JC1 student from Dunman High, interested in programming websites, trying out AI and more</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/tseminjia.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Tse Min Jia</h1>
+                <div class="card-responsename"><a href="https://github.com/MinJiaTse" target="_blank" rel="noopener">@MinJiaTse</a></div>
+                
+                    <p class="card-desc">Hello, i’m Min Jia :), a Year 5 student in Dunman High School. Nice to meet you! 😁</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/suraj.png" width="400px" />
+                </div>
+                <h1 class="card-title">Suraj Kumar</h1>
+                <div class="card-responsename"><a href="https://github.com/Tsk78" target="_blank" rel="noopener">@Tsk78</a></div>
+                
+                    <p class="card-desc">Hello, I'm Suraj and coding with black coffee and music is my thing.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">DEV</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/leducminh.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Le Duc Minh</h1>
+                <div class="card-responsename"><a href="https://github.com/ID-minh4354" target="_blank" rel="noopener">@ID-minh4354</a></div>
+                
+                    <p class="card-desc">JC2 Student at HCI</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/joeytang.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Joey Tang</h1>
+                <div class="card-responsename"><a href="https://github.com/fishjojo1" target="_blank" rel="noopener">@fishjojo1</a></div>
+                
+                    <p class="card-desc">JC2 Student at HCI</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">DEV</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/isaacyeap.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Isaac Yeap Sheng Rong</h1>
+                <div class="card-responsename"><a href="https://github.com/iysr" target="_blank" rel="noopener">@iysr</a></div>
+                
+                    <p class="card-desc">JC2 Student at HCI</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/duyuhan.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Du Yuhan</h1>
+                <div class="card-responsename"><a href="https://github.com/TwelvePenguins" target="_blank" rel="noopener">@TwelvePenguins</a></div>
+                
+                    <p class="card-desc">Year 4 student from MGS. Your average workaholic penguin and Red Dead Redemption 2 enjoyer.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Jessie Chin Kit Hey</h1>
+                <div class="card-responsename"><a href="https://github.com/jcc-kh" target="_blank" rel="noopener">@jcc-kh</a></div>
+                
+                    <p class="card-desc">JC2 Student at HCI</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">DEV</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/ngjohnson.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Ng Johnson</h1>
+                <div class="card-responsename"><a href="https://github.com/cpp-johnny" target="_blank" rel="noopener">@cpp-johnny</a></div>
+                
+                    <p class="card-desc">Hello! I’m Johnson and I like cats</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Edwin_Liew.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Edwin Liew</h1>
+                <div class="card-responsename"><a href="https://github.com/edwinlmy5" target="_blank" rel="noopener">@edwinlmy5</a></div>
+                
+                    <p class="card-desc">My name is Edwin and I'm one of the project managers for ACJC's Technology Council</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Justin_Wang.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Justin Wang</h1>
+                <div class="card-responsename"><a href="https://github.com/plwanejexperto" target="_blank" rel="noopener">@plwanejexperto</a></div>
+                
+                    <p class="card-desc">I took O Level Computing and am currently taking A level computing. I have an interest in designing UI and UX and I am passionate to learn more about computing :)</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Oon_Zheng_Kang.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Oon Zheng Kang</h1>
+                <div class="card-responsename"><a href="https://github.com/ozk100" target="_blank" rel="noopener">@ozk100</a></div>
+                
+                    <p class="card-desc">Hi, I'm Zheng Kang, a JC1 student from DHS.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Wayne_Ang.JPG" width="400px" />
+                </div>
+                <h1 class="card-title">Wayne Ang</h1>
+                <div class="card-responsename"><a href="https://github.com/Zernier" target="_blank" rel="noopener">@Zernier</a></div>
+                
+                    <p class="card-desc">I am a JC2 from ACJC currently. I like reading books, listening to new music and playing the guitar.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/leow_yuleong.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Leow Yu Leong</h1>
+                <div class="card-responsename"><a href="https://github.com/jadedrag1108" target="_blank" rel="noopener">@jadedrag1108</a></div>
+                
+                    <p class="card-desc">Hi im Yu Leong. I'm currently a JC2 computing student studying at DHS</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/eugeneang.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Eugene Ang</h1>
+                <div class="card-responsename"><a href="https://github.com/python-noob-dotcom" target="_blank" rel="noopener">@python-noob-dotcom</a></div>
+                
+                    <p class="card-desc">Hi, I'm Eugene and i believe that caffeine is a miracle drug</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/harry.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Cheong Jun Kai Harry</h1>
+                <div class="card-responsename"><a href="https://github.com/Harry-cheong" target="_blank" rel="noopener">@Harry-cheong</a></div>
+                
+                    <p class="card-desc">I'm Harry. I love tinkering with tech. I love card throwing.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Mahamantra_Sivagnanam.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Mahamantra Sivagnanam</h1>
+                <div class="card-responsename"><a href="https://github.com/mahaachu" target="_blank" rel="noopener">@mahaachu</a></div>
+                
+                    <p class="card-desc">Hi! My name's Mahamantra Sivagnanam. I really enjoy programming and coming up with new ideas and innovations</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Chee_Justin.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Chee Justin Suwattana</h1>
+                <div class="card-responsename"><a href="https://github.com/Giganaer" target="_blank" rel="noopener">@Giganaer</a></div>
+                
+                    <p class="card-desc">Hi I'm Justin, a JC1 computing student in DHS who also likes playing guitar</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/adapaka_vinita.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Adapaka Vinita</h1>
+                <div class="card-responsename"><a href="https://github.com/vi-nita" target="_blank" rel="noopener">@vi-nita</a></div>
+                
+                    <p class="card-desc">I am a fast learner and am passionate about coding and programming. I also enjoy dancing.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Jiaxuan.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Tang Jiaxuan</h1>
+                <div class="card-responsename"><a href="https://github.com/Jiaxuan06" target="_blank" rel="noopener">@Jiaxuan06</a></div>
+                
+                    <p class="card-desc">Hello! I am Jiaxuan, a JC1 student from TJC annd I am a coffee addict 🤣</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Clara_Lee.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Clara Lee</h1>
+                <div class="card-responsename"><a href="https://github.com/Ninrolds6" target="_blank" rel="noopener">@Ninrolds6</a></div>
+                
+                    <p class="card-desc">I'm Clara from ASRJC! My CCA is badminton I take computing for A levels. I crochet and do coding in my free time</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">WS</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Ashley_Alexster.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Ashley Alexster</h1>
+                <div class="card-responsename"><a href="https://github.com/IsoceledAsh" target="_blank" rel="noopener">@IsoceledAsh</a></div>
+                
+                    <p class="card-desc">Hi, I'm Ashley! I have always been interested in CS stuff since I was young, and currently take Computing as a subject in JC</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Kashvi_Kothari.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Kothari Kashvi Chintan</h1>
+                <div class="card-responsename"><a href="https://github.com/kat-fly" target="_blank" rel="noopener">@kat-fly</a></div>
+                
+                    <p class="card-desc">I have been a member of Infocomm Club since primary school. I currently take H2 computing.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/andrel.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Quoid Jing-Xuan Andrel</h1>
+                <div class="card-responsename"><a href="https://github.com/antndrel" target="_blank" rel="noopener">@antndrel</a></div>
+                
+                    <p class="card-desc">Hello! I am Andrel from TJC</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/celine_natalie.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Celine Natalie Wongso</h1>
+                <div class="card-responsename"><a href="https://github.com/celnat312" target="_blank" rel="noopener">@celnat312</a></div>
+                
+                    <p class="card-desc">I took H2 computing when I was in JC and I joined BBCS in 2021 and 2022!</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Jerome_Palayoor.png" width="400px" />
+                </div>
+                <h1 class="card-title">Jerome Palayoor</h1>
+                <div class="card-responsename"><a href="https://github.com/jeromepalayoor" target="_blank" rel="noopener">@jeromepalayoor</a></div>
+                
+                    <p class="card-desc">I love math and coding and recently picked up cyber security.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Jovn.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Jovn Setiawan Jaya</h1>
+                <div class="card-responsename"><a href="https://github.com/Benjjji" target="_blank" rel="noopener">@Benjjji</a></div>
+                
+                    <p class="card-desc">Hi, I'm Jovn. ✨I am an average human being✨</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Lim_Jack.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Lim Jack</h1>
+                <div class="card-responsename"><a href="https://github.com/jack-0000000" target="_blank" rel="noopener">@jack-0000000</a></div>
+                
+                    <p class="card-desc">I am very passionate about science and technology. I am keen in learning more about computer science and developing my own programmes.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Asha_Solomon.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Asha Solomon</h1>
+                <div class="card-responsename"><a href="https://github.com/Ash3926" target="_blank" rel="noopener">@Ash3926</a></div>
+                
+                    <p class="card-desc">I'm Asha from TJC, I like running and crafts. Favorite subjects(at O's) are Maths and Physics :)</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Admin</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Sophia_Chua.JPG" width="400px" />
+                </div>
+                <h1 class="card-title">Chua Tze Xuan, Sophia</h1>
+                <div class="card-responsename"><a href="https://github.com/TAUVX" target="_blank" rel="noopener">@TAUVX</a></div>
+                
+                    <p class="card-desc">I am interested in the Fine Arts and like to make art when inspiration strikes me.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Dylan_Alden_Kusbiyantoro.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Dylan Alden Kusbiyantoro</h1>
+                <div class="card-responsename"><a href="https://github.com/ZestyP4nda" target="_blank" rel="noopener">@ZestyP4nda</a></div>
+                
+                    <p class="card-desc">I’m a JC student passionate in web development, artificial intelligence, game design, and robotics</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Sanke_Mahit.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Sanke Mahit</h1>
+                <div class="card-responsename"><a href="https://github.com/AppleGesus" target="_blank" rel="noopener">@AppleGesus</a></div>
+                
+                    <p class="card-desc">My name is Sanke Mahit and I am in JC2 this year! I was a member in last year's buildingblocs as well</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Tan_Junheng.png" width="400px" />
+                </div>
+                <h1 class="card-title">Tan Junheng</h1>
+                <div class="card-responsename"><a href="https://github.com/azazazo" target="_blank" rel="noopener">@azazazo</a></div>
+                
+                    <p class="card-desc">biggest blåhaj fan🦈❤️❤️i like crypto(graphy) and sometimes play ctfs</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Teh_Kim_Wee.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Teh Kim Wee</h1>
+                <div class="card-responsename"><a href="https://github.com/DangerousPotential" target="_blank" rel="noopener">@DangerousPotential</a></div>
+                
+                    <p class="card-desc">I'm Kim Wee, currently studying in ASRJC. Python is my main programming language</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Peter.jpeg" width="400px" />
+                </div>
+                <h1 class="card-title">Zeyu Yao (Peter)</h1>
+                <div class="card-responsename"><a href="https://github.com/cytronicoder" target="_blank" rel="noopener">@cytronicoder</a></div>
+                
+                    <p class="card-desc">I'm a student developer currently studying in Singapore.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/Raymond_goo.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Raymond Goo</h1>
+                <div class="card-responsename"><a href="https://github.com/provsalt" target="_blank" rel="noopener">@provsalt</a></div>
+                
+                    <p class="card-desc">I like doing things and stuff software related.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/zhang_xiyuan.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Zhang Xiyuan</h1>
+                <div class="card-responsename"><a href="https://github.com/xiyuan1avery" target="_blank" rel="noopener">@xiyuan1avery</a></div>
+                
+                    <p class="card-desc">Hi im Xiyuan from VJC!!! I luv coffee, running, math &amp; programming. Curious&amp;Learn&amp;Enjoy@BBCS2023</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl/jinghong.jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Ma Jinghong</h1>
+                <div class="card-responsename"><a href="https://github.com/eli5535" target="_blank" rel="noopener">@eli5535</a></div>
+                
+                    <p class="card-desc">I am a J2 student from HCI, and take PCME. I hope to help out for this event and learn relevant skills :)</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Anangore Seetharaman Ghayathri</h1>
+                <div class="card-responsename"><a href="https://github.com/Gau567" target="_blank" rel="noopener">@Gau567</a></div>
+                
+                    <p class="card-desc">Passionate about AI and CS, aims to achieve in the industry. Enjoys crime/thriller books.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Adshop</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Anushka Sharma</h1>
+                <div class="card-responsename"><a href="https://github.com/anushkaaaa5532" target="_blank" rel="noopener">@anushkaaaa5532</a></div>
+                
+                    <p class="card-desc">Anushka Sharma, 17, Global Indian Intl. School Punggol. Likes reading, cycling, drawing, dancing, adventure.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Varshini</h1>
+                <div class="card-responsename"><a href="https://github.com/varshuarul" target="_blank" rel="noopener">@varshuarul</a></div>
+                
+                    <p class="card-desc">Hi, my name is varshini. I am currently doing ib year 1 in an international school.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Nikitha Sivashanmuganathan</h1>
+                <div class="card-responsename"><a href="https://github.com/nikithasivash" target="_blank" rel="noopener">@nikithasivash</a></div>
+                
+                    <p class="card-desc">Hi, my name is Nikitha. Im currently in IB year 1. My ambition is to become a software engineer so I believe that this would help me out.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Adshop</div>
+                        </div>
+                        
+                        <div class="box-wrapper">
+                            <div class="count">QA</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Tan Swee Kang</h1>
+                <div class="card-responsename"><a href="https://github.com/sotong1337" target="_blank" rel="noopener">@sotong1337</a></div>
+                
+                    <p class="card-desc">H2 computing student does CTF, competitive programming, competitions, and NCC admin in my school.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">HR</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Ong Miao Ying, Clara</h1>
+                <div class="card-responsename"><a href="https://github.com/claraongmy" target="_blank" rel="noopener">@claraongmy</a></div>
+                
+                    <p class="card-desc">hi i'm clara and i gained interest in cs just a few months ago! im a newbie compared to everyone else HAHA but i'll try my best 👍</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Pratibha Rao</h1>
+                <div class="card-responsename"><a href="https://github.com/Prxtibha" target="_blank" rel="noopener">@Prxtibha</a></div>
+                
+                    <p class="card-desc">Hi, I am Pratibha and I study in IBYR 1 in GIIS</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Clarisse Ng</h1>
+                <div class="card-responsename"><a href="https://github.com/Cherrymeelk" target="_blank" rel="noopener">@Cherrymeelk</a></div>
+                
+                    <p class="card-desc">A fun, enthusiastic person who likes to meet new people and is rather extroverted.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Yau Le Han</h1>
+                <div class="card-responsename"><a href="https://github.com/lh00000" target="_blank" rel="noopener">@lh00000</a></div>
+                
+                    <p class="card-desc">Sec 4 student exploring CS passion, with no experience, eager to learn and gain skills.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Pubs</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Rachel Lim</h1>
+                <div class="card-responsename"><a href="https://github.com/Sicario09" target="_blank" rel="noopener">@Sicario09</a></div>
+                
+                    <p class="card-desc">I'm a Seth hater</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/ppl\Nguyen Ngoc Quyet (Harry).jpg" width="400px" />
+                </div>
+                <h1 class="card-title">Nguyen Ngoc Quyet (Harry)</h1>
+                <div class="card-responsename"><a href="https://github.com/thatsmycroissant" target="_blank" rel="noopener">@thatsmycroissant</a></div>
+                
+                    <p class="card-desc">Competitive programmer, silver medals, Python, C++, cybersecurity aspirant.</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="/2023/assets/img/" width="400px" />
+                </div>
+                <h1 class="card-title">Raj Harsh</h1>
+                <div class="card-responsename"><a href="https://github.com/Hars-raj" target="_blank" rel="noopener">@Hars-raj</a></div>
+                
+                    <p class="card-desc">I am a JC2 student at YIJC, I take H2 computing and have an interest in programming and AI</p>
+                
+                <div class="card-footer">
+                    <div class="footer-box">
+                        
+                        <div class="box-wrapper">
+                            <div class="count">Dev</div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+</section>
+
+<h2 style="text-align:left;">Teachers-in-Charge</h2>
+
+<section align="center">
+    <div class="card">
+        <div class="cover"></div>
+        <div class="card-wrapper">
+            <div class="card-header">
+                <div class="card-img-wrapper">
+                    <img src="https://github.com/buildingblocs/2023/edit/main/about/organisers/index-en.md" width="400px" />
+                </div>
+                <h1 class="card-title">Mr Gi Soong Chee</h1>
+                <div class="card-responsename"><a href="https://github.com/cpsggisc" target="_blank" rel="noopener">@cpsggisc</a></div>
+                <p class="card-desc"><i>Make it harder.</i></p>
+            </div>
+        </div>
+    </div>
+</section>
+:ET
